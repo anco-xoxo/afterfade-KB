@@ -1,0 +1,16 @@
+# Afterfade Coatings, Overview
+
+## What Afterfade Pro-Tech+ coating is
+Afterfade Pro-Tech+ is the core Afterfade product: a clear, solvent-based restorer that brings back the original colour and gloss of faded surfaces and protects them against sun and weather. It is not a paint and not a wax. Customers apply it themselves in an afternoon on window frames, doors, gates, garage doors and shutters. Pro-Tech+ revives the existing colour; it does not recolour, and there is no colour choice. Afterfade sells and supports it for aluminium and PVC. Pro-Tech+ can also be used on plastic, painted surfaces, metal, painted wood and stone — this sits outside our core tested range, so always test a small hidden area first, and we don't promise a specific result or lifespan there. See Surfaces for the full scope.
+
+## Afterfade Pro-Tech+ as a maintenance product
+Afterfade Pro-Tech+ is a maintenance product, not a one-time fix. One coat protects for up to five years; a light maintenance coat applied periodically, sooner on the sides of the house that take the most sun, keeps surfaces looking their best and extends the life of the finish. The re-buy for a maintenance re-coat is the same 250 ml Afterfade Pro-Tech+ bottle, EUR 59,95, SKU AF-COAT-250 — Afterfade's own listing now labels this bottle "Pro-Tech+ Refill 250 ml" (it is the same coating, the same size, the same price; there is no separate, different refill product or size).
+
+## What Afterfade Pro-Tech+ does not do
+Afterfade Pro-Tech+ does not change colour or match a new shade, it restores the existing colour only, so it cannot cover damage, fill scratches or hide repairs. It is not a masonry or roof waterproofer and Afterfade does not sell it for terraces, driveways or paths. It must not be used on anything in prolonged contact with water, on any surface people walk on, or on glass. Afterfade's own guidance, coverage figures and five-year expectation apply to aluminium and PVC; for other materials Pro-Tech+ can still be used but the customer should test first and should not be promised a specific result. See Surfaces.
+
+## Afterfade's professional on-site service (separate from the DIY coating)
+Afterfade also offers a professional service where its own team treats windows, doors, gates and similar surfaces on site — a different offering from the customer-applied Pro-Tech+ product. There are two service types:
+- **Coating service**: professional on-site application of the colour-restoration coating for faded (not damaged) aluminium, PVC and powder-coated surfaces. Same principle as the DIY product — restores, does not recolour.
+- **On-site spray work**: repairs scratches, impact damage or break-in damage, and can deliver a full colour change, on aluminium, PVC and metal. For damaged surfaces that are not suitable for the coating. This spray service, unlike the Pro-Tech+ coating, can change the colour.
+Both are quoted individually: a customer requests a free, no-obligation quote at afterfade.be/pages/offerte (or by sending photos over WhatsApp), specifying what needs restoring, roughly how much, and its condition. There is no fixed public price list for these services — do not invent a price; direct the customer to request a quote.
