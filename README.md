@@ -20,6 +20,7 @@ Markdown files under [`kb/`](kb/), grouped by topic:
 | `kb/systems/` | The Restore-Protect-Maintain method: application steps, use cases, known questions |
 | `kb/troubleshooting/` | Common issues and their resolution |
 | `kb/definitions.json` | Definitions of materials and terms the assistant may be asked about (e.g. Trespa) |
+| `data/questions.json` | Log of collected customer questions, used for the end-of-week common-issues survey |
 
 ## How it works
 

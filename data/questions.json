@@ -1,0 +1,29 @@
+{
+  "schema": {
+    "description": "Log of customer questions collected during the week, for the end-of-week survey on most common issues.",
+    "fields": {
+      "id": "Sequential number of the entry",
+      "date": "Date the question was received (YYYY-MM-DD)",
+      "language": "Language of the customer's message (ISO 639-1 code)",
+      "channel": "Where the question arrived: whatsapp, web_chat, email, phone, other",
+      "customer": "Customer name if available, otherwise null",
+      "question_raw": "The question exactly as the customer wrote it",
+      "question_en": "Normalized English translation, for easy grouping in the weekly survey",
+      "category": "Topic of the question, used for the survey aggregation",
+      "kb_ref": "Path to the knowledge-base file that answers this question, or null if the KB has no answer yet"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "date": "2026-08-02",
+      "language": "nl",
+      "channel": "unknown",
+      "customer": "Luc",
+      "question_raw": "Hoe reinig ik de applicatiepad en de microvezeldoek na gebruik??",
+      "question_en": "How do I clean the applicator pad and microfibre cloth after use?",
+      "category": "product_care",
+      "kb_ref": null
+    }
+  ]
+}
