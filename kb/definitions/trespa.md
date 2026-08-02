@@ -1,0 +1,15 @@
+# Afterfade Definitions, Trespa
+
+## What Trespa is
+Trespa is a brand of high-pressure laminate (HPL) panels, widely used in exterior building facades and cladding, and also in interior applications like countertops and toilet partitions. The best-known product line is Trespa Meteon, an exterior-grade panel made from wood-based fibres saturated with thermosetting resins, pressed under high heat and pressure, with a decorative surface layer (often using their "ELP" - Electron Beam Cured Acrylate - coating for extra weather and UV resistance).
+
+Key characteristics:
+- **Weather resistant** — designed to withstand UV, rain, frost and pollution without significant fading or degrading.
+- **Low maintenance** — does not need painting or sealing like wood.
+- **Wide range of colours and finishes** — including wood-look, stone-look and solid colours.
+- **Used for** rainscreen cladding, balcony panels, fencing, signage and facade systems on commercial and residential buildings.
+
+It is a Dutch company (part of the Hexion/Trespa International group), well known in architecture and construction circles across Europe.
+
+## Trespa and Afterfade Pro-Tech+
+Trespa panels are typically a compact laminate, not aluminium or PVC, so Afterfade Pro-Tech+ is not intended or tested for that surface. If a customer asks about using it on Trespa cladding, treat it as falling outside the tested surface range: flag it for a test-patch-and-caution answer (see `product_families/coatings/surfaces.md`), or escalate if precision matters.

@@ -19,6 +19,7 @@ Markdown files under [`kb/`](kb/), grouped by topic:
 | `kb/product_families/` | Products by family (coatings, surface prep, kits) plus the authoritative per-language product names |
 | `kb/systems/` | The Restore-Protect-Maintain method: application steps, use cases, known questions |
 | `kb/troubleshooting/` | Common issues and their resolution |
+| `kb/definitions/` | Definitions of materials and terms the assistant may be asked about (e.g. Trespa) |
 
 ## How it works
 
