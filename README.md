@@ -15,7 +15,7 @@ Markdown files under [`kb/`](kb/), grouped by topic:
 | Directory | Contents |
 | --- | --- |
 | `kb/company/` | Company overview, legal details, contact and support hours, supported languages |
-| `kb/policies/` | Orders & shipping, returns & warranty, safety & compliance |
+| `kb/policies/` | Orders & shipping, returns & warranty, safety & compliance, e-invoicing & VAT |
 | `kb/product_families/` | Products by family (coatings, surface prep, kits) plus the authoritative per-language product names |
 | `kb/systems/` | The Restore-Protect-Maintain method: application steps, use cases, known questions |
 | `kb/troubleshooting/` | Common issues and their resolution |
