@@ -12,6 +12,19 @@
       ],
       "background": "It is a Dutch company (part of the Hexion/Trespa International group), well known in architecture and construction circles across Europe.",
       "afterfade_context": "Trespa panels are typically a compact laminate, not aluminium or PVC, so Afterfade Pro-Tech+ is not intended or tested for that surface. If a customer asks about using it on Trespa cladding, treat it as falling outside the tested surface range: flag it for a test-patch-and-caution answer, or escalate if precision matters."
+    },
+    {
+      "term": "Door wreath",
+      "aliases": ["door wreath", "front-door wreath", "wreath"],
+      "definition": "A door wreath is a circular (or otherwise shaped) arrangement of decorative materials hung on a front or interior door, usually as seasonal decoration. Wreaths are made from a wide range of materials: plastic or resin, metal wire, painted wood, fabric, and natural or dried plant material such as pine, eucalyptus, branches and leaves. Common types include Christmas wreaths, autumn wreaths and year-round welcome wreaths.",
+      "key_characteristics": [
+        "Decorative, not structural - hung on the door and not exposed to the same wear as windows, doors, gates or shutters.",
+        "Materials vary widely, so surface suitability depends on what the wreath is actually made of.",
+        "Often mounted on the outside of the door, where it is exposed to sun, rain, frost and wind.",
+        "Plastic, resin, painted metal and painted wood wreaths are the material types that could potentially be treated; natural or dried plant material cannot."
+      ],
+      "background": "Door wreaths are a traditional decoration in many European markets and a common autumn/winter product, particularly around Christmas.",
+      "afterfade_context": "A door wreath is not a surface Afterfade markets or tests for. If a customer asks about restoring a faded plastic, resin, painted metal or painted wood wreath, treat it like any other surface outside the core aluminium and PVC range: it can be used with a test patch on a small hidden area first, and no specific result or lifespan should be promised. Never recommend Afterfade Pro-Tech+ for natural or dried plant material, fabric, or anything a customer would not treat as a coated surface."
     }
   ]
 }
