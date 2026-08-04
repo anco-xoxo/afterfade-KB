@@ -19,7 +19,7 @@ Belgium
 
 ## Steps
 1. **Log the task.** Create a card for the refund on the task board (see SOP — Task Management).
-2. **Check the order.** Verify the order and its status in Sendcloud; confirm it matches the customer's name and order number.
+2. **Check the order.** Verify the order and its status in Sendcloud; confirm it matches the customer's name and order number. If the parcel was lost or damaged in transit, file a carrier claim through Sendcloud first (see SOP — Filing a Shipping Claim).
 3. **Confirm eligibility.** Check against the return policy above (notification within 14 days, seal not broken, not a custom item). Refunds are escalated to a human in case of doubt (complaints and refunds escalate to the Afterfade team).
 4. **Give the return address.** Share the return address above and ask the customer to send the items back with the order details.
 5. **Process the refund.** Once the goods arrive back (or proof of return shipment is provided), process the refund and issue it within 14 days of notification. Refund the purchase price and standard shipping only.

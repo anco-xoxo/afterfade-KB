@@ -14,6 +14,7 @@
 - Shake the bottle well. Use it undiluted and do not mix it with anything else.
 - Test a small hidden area first, always for materials outside aluminium and PVC.
 - Apply one thin, even coat with the microfibre applicator or a cloth, panel by panel. Do not overload the surface; the product should soak in rather than sit on top.
+- Two thin coats are fine: apply the second coat 24 hours after the first. No need to degrease again in between, as long as the surface has stayed clean and dust-free.
 - After 10 minutes, wipe the surface off and polish it with a clean, dry, lint-free microfibre cloth. This step is required, not optional. Skipping it leaves a shiny, uneven finish that is slippery when wet.
 - Apply when both the surface and the air are between 10 and 30 degrees Celsius, out of direct sun, and not in rain or very hot weather.
 - Keep the surface protected and dry for 24 hours afterwards.

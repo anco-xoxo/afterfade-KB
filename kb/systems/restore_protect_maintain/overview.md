@@ -7,6 +7,11 @@ Afterfade works as a three-step method:
 3. Maintain, reapply a light Pro-Tech+ coat periodically, sooner on sun-facing surfaces. A new coat goes straight onto the cleaned surface with no stripping. A further Pro-Tech+ 250 ml bottle (EUR 59,95, also listed as "Pro-Tech+ Refill") is the maintenance re-buy — there is no separate, different refill product.
 The Afterfade Complete Kit and the Afterfade Double Kit each contain everything needed for steps 1 and 2 in one box.
 
+## Two coats and later re-painting
+- Two thin coats on top of each other are fine. Apply the second coat 24 hours after the first. Degreasing again is not needed in between, as long as the surface has stayed clean and dust-free.
+- Painting (lacquering) over the coating later is still possible. Once cured, the coating is a smooth protective layer, so a new paint coat over it needs a thorough degreasing and a light sanding for good adhesion — the same as for any smooth protective layer.
+- Water test tip before treating: wet a dull part of the surface with water. If the colour temporarily comes back, the surface is faded and the chance of a successful result is high — and re-painting may not be needed at all.
+
 ## Conditions for applying the Afterfade system
 - Apply only to a clean, degreased, fully dry surface, free of dust and grease.
 - Surface and air temperature must be between 10 and 30 degrees Celsius. Work out of direct sun and away from hot surfaces, and do not apply in rain or in very hot weather.
