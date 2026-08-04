@@ -12,8 +12,12 @@ If a customer asks about one of these, do not say it is out of scope. Say Pro-Te
 - Anything in permanent or prolonged contact with water, for example pond surrounds, gutters that hold water, or anything below a waterline.
 - Floors, decking, steps, paths, or any surface people walk on. If the product is not wiped off thoroughly it becomes slippery when wet, so Afterfade does not recommend it for walking surfaces at all.
 - Glass. Treat it as out of scope.
+- Zinc (for example zinc roofing or gutters). Treat it as out of scope.
 - Bare or untreated wood. Only painted or previously coated wood is suitable.
 - Any surface that has not been cleaned, degreased and dried first.
+
+## What Afterfade Pro-Tech+ does and does not fix
+Pro-Tech+ restores and enhances the colour that is already on the surface. It does not fix paint damage or scratches: it cannot repair flaking or peeling paint, hide scratches, fill dents or cover repairs. If the paint itself is damaged or worn through, the coating will not restore it — it only enhances the colour that is already there.
 
 ## The test patch rule for Afterfade Pro-Tech+
 Always do a test patch on a small hidden area first, before every job, to confirm the effect on that particular material. Always mention this for anything outside aluminium and PVC — including painted wood — and mention it for unusual or valuable items even within the core range.

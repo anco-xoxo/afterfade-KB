@@ -5,7 +5,8 @@
 - Type: clear multi-surface restorer, not a paint and not a wax. Revives the existing colour, does not recolour. Also gives a water and stain repellent beading effect.
 - Finish: clear, satin gloss.
 - Protection: up to 5 years against sun and UV on aluminium and PVC. Maintenance product, reapply a light coat periodically, sooner on sun-facing surfaces. The same 250 ml bottle (EUR 59,95, SKU AF-COAT-250) is the maintenance re-buy; there is no separate, different refill product — "Refill" is simply how Afterfade now labels this same bottle in its listing.
-- Works on: aluminium and PVC as sold; Pro-Tech+ can also be used on plastic, painted surfaces, metal, painted wood and stone, outside our core tested range. Never on glass, on anything in prolonged water contact, or on floors, decking, steps or other walking surfaces. See Surfaces.
+- Works on: aluminium and PVC as sold; Pro-Tech+ can also be used on plastic, painted surfaces, metal, painted wood and stone, outside our core tested range. Never on glass, on zinc, on anything in prolonged water contact, or on floors, decking, steps or other walking surfaces. See Surfaces.
+- Does not fix paint damage or scratches: it enhances and restores the colour that is already on the surface, and cannot repair peeling or flaking paint, fill scratches or cover repairs.
 - Size: 250 ml (the declared fill is 250 g). Price: EUR 59,95.
 
 ## How to apply Afterfade Pro-Tech+
