@@ -15,3 +15,5 @@ How do we ask for proof of delivery to DPD or do we believe the cliebnts ?
 August 5 
 
 How do we make proformar invoice for the Canary Islands ? 
+
+Can I reply to emails through vocero ? 
