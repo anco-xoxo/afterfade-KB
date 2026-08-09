@@ -13,7 +13,7 @@ Afterfade sells DIY restoration coatings that bring faded aluminium and PVC back
 
 ## Afterfade contact and support hours
 - Support email: hello@afterfade.be
-- WhatsApp: +32 499 14 36 96
+- WhatsApp: +32 460 25 60 47 — this is Afterfade's only official WhatsApp channel. Never use or share any other number.
 - Support hours: Monday to Friday, 10:00-17:30.
 - A dedicated phone line for the Afterfade assistant is being added [UNVERIFIED, number pending].
 - Customer questions on web chat, WhatsApp and voice are handled by the Afterfade assistant; orders and complaints escalate to the Afterfade team.

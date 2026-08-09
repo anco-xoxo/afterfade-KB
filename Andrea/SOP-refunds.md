@@ -5,7 +5,7 @@ Use when a customer wants to return an item or asks for a refund.
 
 ## Return policy (summary)
 - Customers have 14 calendar days from receiving the order to notify Afterfade they want to return it, and a further 14 days to send the items back.
-- To start a return, the customer contacts Afterfade by email (hello@afterfade.be) or WhatsApp (+32 499 14 36 96) with their name, order number, product details and reason. Returns not notified in advance may be delayed.
+- To start a return, the customer contacts Afterfade by email (hello@afterfade.be) or WhatsApp (+32 460 25 60 47 — the only official WhatsApp channel) with their name, order number, product details and reason. Returns not notified in advance may be delayed.
 - Afterfade refunds within 14 calendar days of being notified of the return, though it may wait until the goods arrive back or proof of return shipment is provided.
 - Refunds cover the purchase price and standard shipping, not any premium delivery surcharge.
 - Sealed coatings and cleaners (Afterfade Pro-Tech+ and Afterfade Prep+) lose their return right once the seal is broken; custom or personalised items cannot be returned.

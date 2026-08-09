@@ -17,3 +17,12 @@ August 5
 How do we make proformar invoice for the Canary Islands ? 
 
 Can I reply to emails through vocero ? 
+
+August 7 
+
+How do I find an invoice witht he order number ? 
+
+what is the be VAt for sebastiaan ? 
+
+=> Link for discount https://afterfade.be/en/pages/share-your-result 
+
