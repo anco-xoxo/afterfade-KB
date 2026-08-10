@@ -14,5 +14,8 @@ All Afterfade CS-ops tasks must be tracked in Vocero or Trello. Nothing should b
 5. **Link related material.** Add the customer, order or chat reference to the card so the context is never lost.
 6. **Close out.** When a task is finished, update the card to Done and note the outcome before moving on.
 
+## Email SLA
+All emails must be replied to within 24 hours. Log the email as a task if a reply requires follow-up work.
+
 ## Exception
 Short, immediate actions that are resolved in the moment (e.g. a quick reply that needs no follow-up) do not need a card — but anything that requires follow-up work, waiting on someone, or a decision must be logged.
