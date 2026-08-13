@@ -26,3 +26,13 @@ what is the be VAt for sebastiaan ?
 
 => Link for discount https://afterfade.be/en/pages/share-your-result 
 
+
+aug 10 
+
+make a created day rle for trello 
+
+when a carad is marked as resolved it should remove all pending 
+
+aug 12 
+
+we should create admin account for the carriers 

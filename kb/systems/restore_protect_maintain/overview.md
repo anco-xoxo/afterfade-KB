@@ -10,7 +10,7 @@ The Afterfade Complete Kit and the Afterfade Double Kit each contain everything 
 ## Two coats and later re-painting
 - Two thin coats on top of each other are fine. Apply the second coat 24 hours after the first. Degreasing again is not needed in between, as long as the surface has stayed clean and dust-free.
 - Painting (lacquering) over the coating later is still possible. Once cured, the coating is a smooth protective layer, so a new paint coat over it needs a thorough degreasing and a light sanding for good adhesion — the same as for any smooth protective layer.
-- Water test tip before treating: wet a dull part of the surface with water. If the colour temporarily comes back, the surface is faded and the chance of a successful result is high — and re-painting may not be needed at all.
+- Water test tip before treating: wet a dull part of the surface with water. If the colour temporarily comes back, the surface is faded and the chance of a successful result is high — and re-painting may not be needed at all. Full procedure: see SOP — Water Test.
 
 ## Conditions for applying the Afterfade system
 - Apply only to a clean, degreased, fully dry surface, free of dust and grease.
