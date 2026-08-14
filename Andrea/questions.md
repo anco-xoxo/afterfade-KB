@@ -36,3 +36,9 @@ when a carad is marked as resolved it should remove all pending
 aug 12 
 
 we should create admin account for the carriers 
+
+aug 14 
+
+comments : 
+
+-> We need better notifications a place to set them all appart like exclude ai handling and maybe dark theme ? 
