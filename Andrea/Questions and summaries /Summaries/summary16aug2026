@@ -1,0 +1,74 @@
+Orders 
+
+Here's the full, current summary of everything tied to Sebastiaan and anything tagged "Pending" across the board: [trello](https://trello.com/b/cSNLJsJ4/afterfade-cs-ops-orders-pending-in-sendcloud)
+
+## 🔴 Pending – Internal Waiting on Sebastiaan or Justin
+**1 card**, tagged *Important*, *Urgent*, and *Pending Label creation from Sebastian to mark as done*:
+- **AF1109 – damaged in shipping, we must send another one** — 6 comments, 1 attachment, last activity Aug 14. This is the highest-priority Sebastiaan item; nothing moves until he creates the label.
+
+## 🟠 Pending to print label Sebastiaan (14 cards total)
+Cards explicitly tagged with Sebastiaan-related "Pending" labels:
+- **Order 6128 – Leaking** — tags: *Pending with Andrea*, *Important*, *Urgent*, *Pending Label creation from Sebastian to mark as done*
+- **AF-2109 – No tracking code, new order AF-2778** — tag: *Pending Label creation from Sebastian to mark as done* (1 comment)
+- **AF-2052 – change of address** — tag: *Pending Label creation from Sebastian to mark as done* (3 comments, 2 attachments)
+- **AF-2109 – unstamped thingy** — tags: *Delivery*, *Pending with Justin* (not Sebastiaan, but sits in this list)
+
+The other 10 cards in this list (AF-2192, AF-1693 02/08, AF-1619, AF-1541, AF-1502, pending activation billit, AF-1427, AF-1441, Wecube request, AF-1949) have no explicit "Pending" tag but are queued waiting on Sebastiaan to print labels.
+
+## 🟡 Pending with Justin (2 cards)
+- **AF-1164 – Address validation Invalid; service point issue; Announcement failed** — tag: *Pending with Justin* (last activity Aug 14)
+- **AF2942** — tag: *Pending with Justin* (3 comments)
+
+## 🟣 Blocked – external (Pending client response / Pending with Andrea)
+- **AF-1826 – Davide Tarantino (03/08)** — *Pending client response*
+- **AF-2675 – Missing address** — *Pending client response* (1 comment, 1 attachment)
+- **AF-1693 – drangmeister** — *Pending with Andrea* + *Pending client response* (1 comment)
+- **AF-1669 – Address validation: No match, Herr Turmstrasse** — *Pending with Andrea* + *Pending client response* (1 comment)
+
+## 🔵 Doing NOW (Pending with Andrea)
+- **Unfulfilled AF 1179 – Canary islands** — *Pending with Andrea*, *Important*, *Delivery* (Aug 6, 3 comments, 1 attachment)
+- **Order number 6159 – not received + how to remove it** — *Pending with Andrea* (2 comments, 1 attachment)
+
+## ⚪ Labels list
+- **LABEL – Pending Sent email to client**
+- **LABEL – Pending Label from Sebastian to mark it as done**
+
+## ⚫ Done (already resolved, for reference)
+- **Sebastian needs to reply** — this is now in Done, so presumably already actioned.
+
+***
+
+**Bottom line:** Sebastiaan currently has **1 urgent internal blocker** (AF1109), **3 explicitly-tagged label-pending cards** (Order 6128, AF-2109, AF-2052) demanding his action, plus **10 more cards** queued in his print-label backlog without explicit tags. Justin has 2 items pending his input, and 4 cards are stalled externally awaiting client responses.
+
+
+Emails 
+
+Pulled the **Emails board**. Here's the summary of Sebastiaan-related and "Pending"-tagged cards, plus the duplicates found against the Sendcloud board. [trello](https://trello.com/b/PU7U2pqd/afterfade-cs-ops-emails)
+
+## 📋 Emails Board – Pending/Sebastiaan Summary
+
+### Pending - Sebastiaan (21 cards)
+Explicitly tagged cards:
+- **Broken Part AF-1431** — tag: *Pending with Sebastiaan* (1 comment, 1 attachment)
+- **Sebastian needs to reply** — tags: *Pending*, *Urgent* (Aug 6)
+- **Invoice BE AF-1247** — tags: *Pending*, *Important*
+- **Invoice BE not possible AF-1149** — tags: *Pending*, *Important*
+- **Invoce DE not possible x2 AF-1214** — tags: *Pending*, *Important*
+- **Invoice DE not present in Shopify** — tag: *Important* (Aug 4, 1 attachment)
+
+The remaining 15 cards (Fidn what happened here, How to differenciate Shopify order numbers, Wrong translation, invoice how-tos, Do we follow up on this, Delivered not proof of delivery, Poor CS Michel, reviews, Quote for sebastian, Turning off auto translations, Order Jolanda AF-1895) have no explicit tag but sit in his queue.
+
+### Blocked - external
+- **Pending second bottle** — tag: *Pending*
+
+### Pending Justin (2 cards, untagged)
+What do we need for a quote / DPD business account
+
+***
+
+## 🔁 Repeated Cards (Emails board vs. Sendcloud board)
+
+A very large number of cards appear **on both boards** with identical or near-identical titles — meaning they're duplicated rather than distinct issues:
+
+**Exact title matches:**
+Sebastian needs to reply · Invoice BE AF-1247 · Invoice BE not possible AF-1149 · Invoce DE not possible x2 AF-1214 · Invoice DE not present in Shopify · Fidn what happened here · How to differenciate Shopify order numbers from Sendcloud · Wrong translation · Check how to make an Invoice for a company · Send E invoice to Bert · Example of how to change the delivery address · Company VAT invoice for Sab

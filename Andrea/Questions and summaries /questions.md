@@ -42,3 +42,7 @@ aug 14
 comments : 
 
 -> We need better notifications a place to set them all appart like exclude ai handling and maybe dark theme ? 
+
+-> the searchbar is broken ffs  
+
+-> we don't need a banner for the canned replies it doesnt let me hit send 
