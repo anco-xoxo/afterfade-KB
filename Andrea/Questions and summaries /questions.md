@@ -46,3 +46,11 @@ comments :
 -> the searchbar is broken ffs  
 
 -> we don't need a banner for the canned replies it doesnt let me hit send 
+
+17 aug 
+
+-> when someones comment it shoudl authenticate the since reading thw full conversation is bad example jolanda 
+
+https://app.vocero.io/inbox?c=e820ba86-4b83-40b1-81c8-7d9c0d376607
+
+=> upload the whole project into drive 
