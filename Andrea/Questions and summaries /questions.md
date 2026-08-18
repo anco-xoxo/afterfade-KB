@@ -54,3 +54,15 @@ comments :
 https://app.vocero.io/inbox?c=e820ba86-4b83-40b1-81c8-7d9c0d376607
 
 => upload the whole project into drive 
+
+laetis comment on returns 
+
+Aftertrade need an account with every logisitcs comany and negotaite tarifs .. for EU and non EU
+
+you guys need to manage the logitic company so you can then manage the return of your shipment depending how you understand the logistics
+
+
+the return for you from customer service should be staruight forward .. where it had been shipped .. which courier will handle it ( because you have negotaitied with coourier which country is covered by which courier ) then you understand how long it will take then you can inform your customer .. your GAP is on logistics you have zero intel , zero tariff zero info .
+
+-> how do we track when the 2 kits are sent seprately ? 
+
