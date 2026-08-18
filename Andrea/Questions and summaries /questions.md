@@ -66,3 +66,16 @@ the return for you from customer service should be staruight forward .. where it
 
 -> how do we track when the 2 kits are sent seprately ? 
 
+18 de agosto 2026 
+
+-> The sops worked 
+
+this si what cGPT said  (https://chatgpt.com/g/g-p-6a79fc96cfe88191a86e322e95a20ca8/project)
+Afterfade custome service 
+
+
+
+I would treat this as a carrier investigation, not ask Herman to keep waiting. The parcel has tracking number 00736554482176, and GLS apparently redirected it from the failed parcel locker to a Parcel Shop, but Herman says the shop has no parcel.
+
+According to the Sendcloud SOP, this is now eligible for a carrier investigation because it has been announced for more than 48 hours.
+
