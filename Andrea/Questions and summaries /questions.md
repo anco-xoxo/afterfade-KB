@@ -79,3 +79,10 @@ I would treat this as a carrier investigation, not ask Herman to keep waiting. T
 
 According to the Sendcloud SOP, this is now eligible for a carrier investigation because it has been announced for more than 48 hours.
 
+
+-> do we take bank transfer s? 
+
+-> what is the SLA for a email ? 
+
+For a chat 
+
