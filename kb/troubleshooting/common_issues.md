@@ -17,3 +17,25 @@ Not a fault: Afterfade Pro-Tech+ is a clear coating. It restores the depth and g
 
 ## Afterfade Pro-Tech+ looks too shiny, feels sticky, or the surface is slippery
 Cause: the product was not wiped off and polished 10 minutes after application, so a film has been left sitting on the surface. This causes a shiny appearance and makes the surface slippery when wet. Fix: wipe the surface down and polish it with a clean, dry, lint-free microfibre cloth. If it has already hardened, clean with Afterfade Prep+, then reapply thinly and wipe off after 10 minutes this time. Treat any report of a slippery surface as a safety matter, answer it promptly and tell the customer not to walk on the treated area until it is corrected.
+
+## Applicator pad hardened after use — customer asks about White Spirit / turpentine
+
+This is a known knowledge-base gap. The current KB says to clean tools and applicators with white spirit immediately after use, but it does not address whether cured Pro-Tech+ can be removed from a hardened pad, or whether White Spirit or turpentine is safe or effective for that purpose.
+
+**Do not improvise an answer.** Follow these rules:
+
+- Acknowledge that the pad has hardened — this is expected if the product was allowed to cure.
+- Distinguish between immediate cleaning (fresh product, white spirit works) and cured coating (unknown — no verified procedure).
+- Do not tell the customer the pad "cannot be softened" unless confirmed by the product team.
+- Do not recommend White Spirit or turpentine for recovering a cured pad unless explicitly supported in the KB.
+- Do not introduce unrequested commercial incentives (discount codes, T-shirt offers) in a technical support response.
+- If the customer wants to recover the pad, escalate to the product team.
+
+### Correction rules for the assistant
+
+| Tendency | What to do instead | Rule |
+|---|---|---|
+| Customer asks about solvents for a hardened pad → AI gives unsupported "cannot be softened" answer | Distinguish immediate cleaning from cured coating; acknowledge KB gap | Never extrapolate a solvent/chemical procedure from incomplete technical information |
+| AI tells customer to buy a new pad without addressing the solvent question | Answer the actual question or escalate if unsupported | Address the customer's actual technical question before recommending a replacement |
+| AI adds discount/T-shirt offer to a technical support response | Keep the response focused on the issue; only use approved UGC incentive workflow | Don't introduce unrequested commercial incentives |
+| AI says pad is "single-use" but also reusable for several hours | Define precisely when reuse is permitted — this is currently an open question | Clarify ambiguous product-use instructions before turning them into a hard rule |

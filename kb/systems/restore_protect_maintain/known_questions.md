@@ -16,6 +16,21 @@ Typical user questions:
 - Is it safe? Is it flammable?
 - Can I get more coating without buying the whole kit again?
 
+## Open technical questions — Applicator pad reuse and cleaning
+
+The following questions about the applicator pad have no verified answer in the current KB. The assistant must not improvise responses to these — escalate or give a cautious holding answer.
+
+- Can the pad be reused after the first coat within the same project?
+- How long can the pad remain usable between coats?
+- Is washing with water and soap recommended or not?
+- What exactly does "clean immediately with white spirit" mean for the applicator pad?
+- Can cured Pro-Tech+ be removed from a hardened pad?
+- Is White Spirit safe or effective for recovering a cured/hardened pad?
+- Is turpentine safe or effective for recovering a cured/hardened pad?
+- When must a new pad be used?
+
+Current KB instruction: "Clean tools and applicators with white spirit immediately after use." This covers cleaning fresh/wet product only. It does not address cured product. Do not extrapolate a solvent procedure from this instruction.
+
 Agent notes:
 - Surfaces: Afterfade sells and supports Pro-Tech+ for aluminium and PVC, and that is what to recommend first. Pro-Tech+ can also be used on plastic, painted surfaces, metal, painted wood and stone, so do not tell a customer it will not work on those; say it can be used on the material, that Afterfade's guidance covers aluminium and PVC, and that they should test a hidden area first. Wood is only suitable if painted or previously coated — never recommend it for bare or untreated wood, and never promise a lifespan on wood. Never recommend it for glass, for zinc, for floors, decking, steps or paths, or for anything in prolonged contact with water. See Surfaces.
 - It does not fix paint damage or scratches: Pro-Tech+ restores and enhances the colour that is already on the surface. If paint is flaking, peeling or worn through, or there are scratches, the coating will not repair them — it only enhances the existing colour.

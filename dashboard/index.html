@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Afterfade CS Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <h1>Afterfade CS Dashboard</h1>
+      <span class="subtitle">Customer Service Daily Board</span>
+    </div>
+    <div class="header-right">
+      <button id="btn-today" class="btn btn-primary">Today</button>
+      <input type="date" id="date-picker" class="date-picker">
+    </div>
+  </header>
+
+  <main>
+    <div class="card" id="daily-card">
+      <div class="card-header">
+        <h2 id="card-date"></h2>
+        <div class="card-meta">
+          <label>Start Date:</label>
+          <input type="date" id="start-date" class="meta-date">
+          <label>Due Date:</label>
+          <input type="date" id="due-date" class="meta-date">
+        </div>
+      </div>
+
+      <div class="card-section">
+        <div class="section-header">
+          <h3>Opening Checklist</h3>
+          <span class="progress" id="opening-progress">0/0</span>
+        </div>
+        <ul class="checklist" id="opening-checklist"></ul>
+        <div class="add-item">
+          <input type="text" id="opening-input" placeholder="Add opening task..." class="add-input">
+          <button id="opening-add" class="btn btn-small">+</button>
+        </div>
+      </div>
+
+      <div class="card-section">
+        <div class="section-header">
+          <h3>Closing Checklist</h3>
+          <span class="progress" id="closing-progress">0/0</span>
+        </div>
+        <ul class="checklist" id="closing-checklist"></ul>
+        <div class="add-item">
+          <input type="text" id="closing-input" placeholder="Add closing task..." class="add-input">
+          <button id="closing-add" class="btn btn-small">+</button>
+        </div>
+      </div>
+
+      <div class="card-section">
+        <div class="section-header">
+          <h3>Custom Tasks</h3>
+          <span class="progress" id="custom-progress">0/0</span>
+        </div>
+        <ul class="checklist" id="custom-checklist"></ul>
+        <div class="add-item">
+          <input type="text" id="custom-input" placeholder="Add custom task..." class="add-input">
+          <input type="date" id="custom-due" class="add-due">
+          <button id="custom-add" class="btn btn-small">+</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="sidebar">
+      <div class="quick-stats">
+        <h3>Quick Stats</h3>
+        <div class="stat">
+          <span class="stat-label">Opening</span>
+          <span class="stat-value" id="stat-opening">0%</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Closing</span>
+          <span class="stat-value" id="stat-closing">0%</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Custom</span>
+          <span class="stat-value" id="stat-custom">0%</span>
+        </div>
+      </div>
+
+      <div class="recent-days">
+        <h3>Recent Days</h3>
+        <ul id="recent-days-list"></ul>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/storage.js"></script>
+  <script src="js/templates.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "opening": [
+    { "text": "Check Vocero inbox for new messages" },
+    { "text": "Review new Shopify orders" },
+    { "text": "Check Trello board for pending tasks" },
+    { "text": "Review returns & refund requests" },
+    { "text": "Check WhatsApp for new conversations" },
+    { "text": "Review Sendcloud for shipping updates" }
+  ],
+  "closing": [
+    { "text": "Follow up on unresolved customer tickets" },
+    { "text": "Update Trello board status" },
+    { "text": "Note any escalations for tomorrow" },
+    { "text": "Log daily questions to questions.json" },
+    { "text": "Check pending shipments via Sendcloud" },
+    { "text": "Confirm all urgent replies sent" }
+  ]
+}
