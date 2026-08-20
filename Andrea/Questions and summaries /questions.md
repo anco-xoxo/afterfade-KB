@@ -86,3 +86,9 @@ According to the Sendcloud SOP, this is now eligible for a carrier investigation
 
 For a chat 
 
+20 of August 2026 
+
+-> Create the Accounts-md [Questions and Summaries/ Summaries / Accounts.md]
+to keep track of the inboxes and the accounts 
+
+-> We created the correos accopunt for Coverso with hola@coverso.io pw:Coverso31102021!
