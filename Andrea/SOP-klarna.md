@@ -52,3 +52,6 @@ If a customer clicks an express button, they will never see Klarna. They need to
 - Klarna availability depends on customer country and credit status — it is not guaranteed for every buyer.
 - Do not promise Klarna will always be available; say it "should" appear.
 - If a customer sends a screenshot and Klarna is genuinely missing from the standard form, escalate to the team for Shopify/Klarna config review.
+
+## Related
+- **SOP-payments.md** — All payment methods overview, including SEPA bank transfer

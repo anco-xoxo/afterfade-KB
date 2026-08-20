@@ -92,3 +92,9 @@ For a chat
 to keep track of the inboxes and the accounts 
 
 -> We created the correos accopunt for Coverso with hola@coverso.io pw:Coverso31102021!
+
+[Set up of my iphone ]
+-> set up passkey for shopify dahsboard on my iphone 14 pro max 
+-> set up the sendcloud on the google chrome imn afterfade chrome profile 
+->billit done althugh there's no 2fa 
+-> vocero eith hello lol 
