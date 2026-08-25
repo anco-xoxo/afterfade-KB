@@ -15,6 +15,28 @@ Use when checking whether a surface is faded and suitable for Afterfade Pro-Tech
 ## What the result means
 If the colour temporarily comes back when a dull part of the surface is wetted, the surface is faded and the chance of a successful result is high — and re-painting may not be needed at all.
 
+## Application instructions — Six steps, one afternoon
+
+1. **Clean the surface**
+   Make sure the surface is clean, dry and free of dust, grease and other contamination.
+
+2. **Apply evenly**
+   Shake the bottle well. Apply a thin, even layer of Afterfade Pro-Tech+ with the applicator pad.
+
+3. **Buff**
+   Gently buff the surface with a microfibre cloth. Do not let it dry for longer than 10 minutes.
+
+4. **Buff again**
+   Buff again with a second, clean microfibre cloth for an even, uniform finish.
+
+5. **Let it dry**
+   Let the product dry completely. Avoid contact with water or other substances for 24 hours while it cures.
+
+6. **Add an extra layer**
+   After 24 hours you can apply an extra layer for more protection. Buff it out again with a clean microfibre cloth, just like before. This strengthens the coating for a longer lasting, better protected result.
+
+> Do not let the coating dry for more than 10 minutes before buffing, and keep it away from water for 24 hours while it cures.
+
 ## Template reply (Portuguese)
 ```
 Boa tarde Alex,

@@ -10,6 +10,22 @@ Use when a customer's parcel is lost, damaged, delivered but not received, or de
 - **Uninsured parcels:** claims are based on per-kilo compensation only, unless the shipping option includes carrier default insurance (shown in the label details). A claim based on sales or purchase value is only possible with Sendcloud Shipping Protection insurance.
 - **Insured parcels (Sendcloud Shipping Protection):** covers lost and damaged shipments only — file under "Shipment damaged" or "Shipment lost". Proof of ID is required for any shipment insured above £1,000 (XCover policy). Compensation can be based on sales or purchase value.
 
+## Damage claims
+
+### Deadline
+Report damage no later than **14 days after delivery**.
+
+### Preserve evidence
+Keep the damaged items and all packaging in their original condition until the claim is completed. Do not dispose of, repair, or clean anything — the carrier may request inspection.
+
+### Documents required for damage claims
+- A detailed description of what happened
+- Photos or video showing the damage, including the packaging
+- The original shipping receipt and tracking number
+- Information about the shipment and its value
+- Any relevant order invoice or summary
+- Customer correspondence confirming the issue, if available
+
 ## How to file a claim
 Three options:
 

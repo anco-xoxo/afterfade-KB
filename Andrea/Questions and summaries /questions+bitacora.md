@@ -98,3 +98,41 @@ to keep track of the inboxes and the accounts
 -> set up the sendcloud on the google chrome imn afterfade chrome profile 
 ->billit done althugh there's no 2fa 
 -> vocero eith hello lol 
+
+21st of August 
+
+I andrea decided that thursday are the day for editing the invoices so all request will be processed on thrusdays. => now I need to communicate that to the customers and put it somewhere in the website 
+
+will cretae a DPD accoutn with Coverson hola +
+
+Checked that all contact forms went top hello inbox 
+
+and checked all the infos to check there was no doubled information 
+
+
+
+23rd opf August 
+miramos laos issue fde Trello 
+
+
+24th of august 
+
+Is it possible to repaint after applying the coating, considering the adhesion?
+
+what do we we do if they couldn't deliver the parcel as it's returning to us ?
+
+crfeated post NL account pw: AfterfadeCustomerService10! 
+
+Inpost is with Post NL 
+
+
+25 th august 2026 
+
+TDS file = technical data sheet 
+
+MSDS file = safety data sheet 
+
+The emails of confirmation for a house number need to be sent from hello => however we have a problem it's going from info@afterfade.be 
+
+ => we need a history of what discount campaings have been done 
+ 
