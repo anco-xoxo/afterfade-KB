@@ -10,7 +10,9 @@ WhatsApp and voice.
 
 ## What this repo contains
 
-Markdown files under [`kb/`](kb/), grouped by topic:
+### `kb/` — Knowledge Base (reference information)
+
+Markdown files grouped by topic:
 
 | Directory | Contents |
 | --- | --- |
@@ -20,7 +22,34 @@ Markdown files under [`kb/`](kb/), grouped by topic:
 | `kb/systems/` | The Restore-Protect-Maintain method: application steps, use cases, known questions |
 | `kb/troubleshooting/` | Common issues and their resolution |
 | `kb/definitions.json` | Definitions of materials and terms the assistant may be asked about (e.g. Trespa) |
-| `data/questions.json` | Log of collected customer questions, used for the end-of-week common-issues survey |
+
+### `data/` — Structured Data (single source of truth for facts)
+
+JSON files that hold structured reference data. SOPs and KB files link to these instead of hardcoding the information:
+
+| File | Contents |
+| --- | --- |
+| `data/contacts.json` | All contact channels: WhatsApp numbers, email, addresses, links |
+| `data/payment_methods.json` | Payment methods, SEPA bank details (IBAN, BIC), troubleshooting |
+| `data/returns.json` | Return deadlines, eligibility rules, return addresses |
+| `data/questions.json` | Log of collected customer questions, used for the weekly common-issues survey |
+
+### `Andrea/` — SOPs (action workflows)
+
+Standard operating procedures for the support agent. Each SOP tells the agent **what to do** and links to `kb/` or `data/` for details:
+
+| File | Purpose |
+| --- | --- |
+| `SOP-water-test.md` | Water test procedure + application instructions reference |
+| `SOP-payments.md` | Payment methods overview + SEPA bank transfer process |
+| `SOP-klarna.md` | Klarna checkout troubleshooting |
+| `SOP-returns-and-refunds.md` | Returns, refunds + shipping claims (Sendcloud) |
+| `SOP-ugc.md` | User-generated content incentive + Shopify discount codes |
+| `SOP-estimate-information.md` | Quantity estimates for DIY product orders |
+| `SOP-painting-quotes.md` | Professional on-site painting service quotes |
+| `SOP-checking-orders.md` | Checking order status in Sendcloud/Shopify |
+| `SOP-canary-islands-shipping.md` | Customs handling for Canary Islands orders |
+| `SOP-task-management.md` | Task tracking rules (Trello/Vocero) |
 
 ## How it works
 
@@ -38,3 +67,7 @@ Markdown files under [`kb/`](kb/), grouped by topic:
 Keep facts accurate and consistent — this is the single source of truth for
 customer-facing answers. When updating a fact (a price, a name, a policy),
 check for other files that reference the same information so they stay aligned.
+
+**Structured data** (contact details, bank addresses, return rules) lives in
+`data/*.json`. Update it there — the SOPs and KB files reference the JSON
+files instead of duplicating the values.

@@ -1,0 +1,46 @@
+{
+  "schema": {
+    "description": "Single source of truth for all Afterfade contact channels. SOPs and KB files should reference this file instead of hardcoding contact details.",
+    "last_verified": "2026-08-25"
+  },
+  "company": {
+    "name": "Afterfade BV",
+    "company_number": "BE 1038.625.619",
+    "headquarters": {
+      "street": "Schaffensesteenweg 132",
+      "postal_code": "3583",
+      "city": "Paal (Beringen)",
+      "country": "Belgium"
+    }
+  },
+  "support": {
+    "email": "hello@afterfade.be",
+    "whatsapp": {
+      "number": "+32 460 25 60 47",
+      "label": "Support — the only official WhatsApp channel",
+      "note": "Never use or share any other WhatsApp number for customer support"
+    },
+    "hours": "Monday to Friday 10:00–17:30"
+  },
+  "quotes": {
+    "whatsapp": {
+      "number": "+32 499 14 36 96",
+      "label": "Painting service quotes"
+    },
+    "form_url": "afterfade.be/pages/offerte"
+  },
+  "website": "www.afterfade.be",
+  "policies": {
+    "refund_policy_url": "afterfade.be/policies/refund-policy"
+  },
+  "return_addresses": {
+    "note": "The return address is communicated once the return request is approved and registered. Afterfade BV may direct returns to a specific address or logistics partner.",
+    "spain": {
+      "street": "Carrer Sant Joan 3",
+      "postal_code": "17491",
+      "city": "Peralada",
+      "country": "Spain"
+    }
+  },
+  "languages_supported": ["nl", "fr", "de", "es", "it", "pt", "en"]
+}

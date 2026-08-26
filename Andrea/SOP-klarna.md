@@ -54,4 +54,6 @@ If a customer clicks an express button, they will never see Klarna. They need to
 - If a customer sends a screenshot and Klarna is genuinely missing from the standard form, escalate to the team for Shopify/Klarna config review.
 
 ## Related
-- **SOP-payments.md** — All payment methods overview, including SEPA bank transfer
+- **SOP-payments.md** — all payment methods overview, including SEPA bank transfer
+- **data/payment_methods.json** — bank details and payment method data
+- **data/contacts.json** — contact channels

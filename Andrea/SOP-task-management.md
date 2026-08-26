@@ -19,3 +19,10 @@ All emails must be replied to within 24 hours. Log the email as a task if a repl
 
 ## Exception
 Short, immediate actions that are resolved in the moment (e.g. a quick reply that needs no follow-up) do not need a card — but anything that requires follow-up work, waiting on someone, or a decision must be logged.
+
+## Related
+This SOP is referenced by nearly every other SOP. Key ones:
+- **SOP-returns-and-refunds.md** — refund and claim task tracking
+- **SOP-ugc.md** — UGC and discount code task tracking
+- **SOP-checking-orders.md** — order lookup task tracking
+- **SOP-painting-quotes.md** — quote request task tracking

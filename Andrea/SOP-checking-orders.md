@@ -10,4 +10,9 @@ Use whenever a CS-ops task involves checking an order: confirming it exists, its
 ## Steps
 1. Open the order in Sendcloud to check its status (payment, processing, shipped, delivered).
 2. If the task needs an invoice, download it from Shopify.
-3. Log the order reference on the task card so the context is kept (see SOP — Task Management).
+3. Log the order reference on the task card so the context is kept (see `SOP-task-management.md`).
+
+## Related
+- **SOP-returns-and-refunds.md** — returns and shipping claims
+- **SOP-task-management.md** — task card tracking
+- **data/contacts.json** — contact channels

@@ -1,0 +1,66 @@
+{
+  "schema": {
+    "description": "Single source of truth for Afterfade payment methods and bank details. SOPs should reference this file instead of hardcoding payment data.",
+    "last_verified": "2026-08-25"
+  },
+  "methods": [
+    {
+      "id": "credit_card",
+      "label": "Credit/debit card",
+      "how_it_works": "Standard Shopify checkout"
+    },
+    {
+      "id": "shop_pay",
+      "label": "Shop Pay",
+      "how_it_works": "Express checkout (Shopify)"
+    },
+    {
+      "id": "apple_pay",
+      "label": "Apple Pay",
+      "how_it_works": "Express checkout"
+    },
+    {
+      "id": "google_pay",
+      "label": "Google Pay",
+      "how_itworks": "Express checkout"
+    },
+    {
+      "id": "klarna",
+      "label": "Klarna",
+      "how_it_works": "Standard checkout only — customer must scroll past express buttons and fill in the standard form to see Klarna",
+      "sop_ref": "SOP-klarna.md"
+    },
+    {
+      "id": "sepa_transfer",
+      "label": "SEPA bank transfer",
+      "how_it_works": "Manual process — requires payment confirmation before shipping",
+      "sop_ref": "SOP-payments.md"
+    }
+  ],
+  "sepa_bank_details": {
+    "account_holder": "Afterfade BV",
+    "iban": "BE90 7380 5400 0932",
+    "bic_swift": "KREDBEBBXXX",
+    "bank": "KBC (Belgium)",
+    "processing_time": "1–3 business days",
+    "important": "Order is shipped only after payment is confirmed in the Afterfade bank account. Never ship based on a promise to pay."
+  },
+  "sepa_troubleshooting": [
+    {
+      "issue": "Customer sent payment but order not shipped",
+      "action": "Check bank statement for incoming SEPA transfer with matching order number; confirm with finance"
+    },
+    {
+      "issue": "Customer forgot order number as reference",
+      "action": "Ask for payment proof (screenshot/statement), match amount and date, process manually"
+    },
+    {
+      "issue": "Customer asks about processing time",
+      "action": "Say 1–3 business days after payment is received"
+    },
+    {
+      "issue": "Customer asks if they can still pay by card after requesting transfer",
+      "action": "Yes, they can complete checkout normally via Shopify"
+    }
+  ]
+}

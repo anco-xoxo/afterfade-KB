@@ -17,5 +17,11 @@ Ask for the following before any quote is given:
 
 ## Notes
 - Do not give a price or promise a price range; each job is quoted individually by the Afterfade team.
-- Send the collected details to the Afterfade team as a task card (see SOP — Task Management) so the quote request is tracked.
+- Send the collected details to the Afterfade team as a task card (see `SOP-task-management.md`) so the quote request is tracked.
 - Reply in the customer's language.
+
+## Related
+- **data/contacts.json** — quote WhatsApp number and contact channels
+- **SOP-task-management.md** — task card tracking
+- **SOP-estimate-information.md** — DIY product quantity estimates (separate from painting quotes)
+- **kb/product_families/coatings/overview.md** — product overview including painting service mention

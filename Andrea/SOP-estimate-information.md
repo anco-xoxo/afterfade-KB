@@ -36,3 +36,9 @@ Afterfade Support
 - Adapt the name and surface details to the customer's situation; do not send the placeholder list verbatim, fold it into the reply in the customer's language.
 - The coverage figure above (double garage door + exterior door + 10–15 window frames) is the one published on Afterfade's product pages. The knowledge base currently marks that figure as [UNDER REVIEW] and instructs agents to quote only the guide figure (~10 m², or 2 doors plus 10 windows). Confirm which figure is current before using this template — see `kb/product_families/coatings/products.md`.
 - Reply in the customer's language (this is the French version of the template).
+
+## Related
+- **kb/product_families/coatings/products.md** — canonical coverage figures and product details
+- **SOP-water-test.md** — water test and application instructions
+- **SOP-painting-quotes.md** — professional painting service quotes (separate from DIY estimates)
+- **data/contacts.json** — contact channels

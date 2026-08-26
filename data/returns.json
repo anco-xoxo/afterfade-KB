@@ -1,0 +1,48 @@
+{
+  "schema": {
+    "description": "Single source of truth for return policy rules, deadlines, and addresses. SOPs should reference this file instead of hardcoding return information.",
+    "last_verified": "2026-08-25",
+    "policy_source": "kb/policies/returns_warranty.md"
+  },
+  "deadlines": {
+    "notification_window_days": 14,
+    "return_shipment_window_days": 14,
+    "refund_processing_days": 14,
+    "note": "Customer has 14 calendar days from receipt to notify, then 14 days to send items back. Refund issued within 14 days of notification."
+  },
+  "eligibility": {
+    "eligible": [
+      "Complete products in original packaging with accessories",
+      "Products in a condition that allows nature, characteristics and functioning to be determined"
+    ],
+    "not_eligible": [
+      "Sealed coatings and cleaners (Pro-Tech+, Prep+) once the seal is broken",
+      "Custom or personalised products",
+      "Products inseparably mixed with other products after delivery"
+    ],
+    "inspection_note": "Customer may inspect as in a physical shop. Usage beyond inspection may result in a value reduction charge."
+  },
+  "refund_covers": {
+    "includes": ["Purchase price", "Standard shipping costs"],
+    "excludes": ["Premium delivery surcharges"]
+  },
+  "contact_for_returns": {
+    "email": "hello@afterfade.be",
+    "whatsapp": "+32 460 25 60 47",
+    "required_info": ["Name", "Order number", "Product(s) to return", "Reason (optional)"]
+  },
+  "return_address": {
+    "note": "The return address is communicated once the return request is approved and registered. Afterfade BV may direct returns to a specific address or logistics partner.",
+    "spain": {
+      "street": "Carrer Sant Joan 3",
+      "postal_code": "17491",
+      "city": "Peralada",
+      "country": "Spain"
+    }
+  },
+  "damaged_orders": {
+    "action": "Contact Afterfade by email, web chat or WhatsApp with order number, description and photos",
+    "afterfade_covers_return": true,
+    "claim_sop": "SOP-returns-and-refunds.md"
+  }
+}

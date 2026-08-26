@@ -20,3 +20,8 @@ Make sure the order value, product description and HS code are filled in correct
 - The recipient in the Canary Islands may need to provide a Tax ID / NIF and cooperate with local customs to release the parcel.
 - IGIC (the Canary Islands' local indirect tax, generally about 7%) and possibly duties apply, and are usually paid by the recipient before delivery.
 - Carriers prepare the export paperwork as long as accurate invoice and product details are given when the label is created.
+
+## Related
+- **SOP-returns-and-refunds.md** — shipping claims for lost or damaged parcels
+- **SOP-checking-orders.md** — checking order status in Sendcloud
+- **kb/policies/orders_shipping.md** — shipping policy and delivery times

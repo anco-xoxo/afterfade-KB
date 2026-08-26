@@ -1,9 +1,13 @@
-# SOP — Water Test
+# SOP — Water Test & Product Application
 
 ## When to use
 Use when checking whether a surface is faded and suitable for Afterfade Pro-Tech+, or when a customer asks whether the product will work on their surface (e.g. anodized aluminium). It is a preliminary check, not a substitute for an application test.
 
-## Procedure
+---
+
+## Part 1: Water Test
+
+### Procedure
 1. Clean a small area well, removing dirt and grease, and let it dry completely.
 2. Place a few drops of clean water on the surface.
 3. Observe how the water behaves:
@@ -12,32 +16,10 @@ Use when checking whether a surface is faded and suitable for Afterfade Pro-Tech
 4. If the surface absorbs the water or visibly changes colour, contact the Afterfade team before applying the product to a larger area.
 5. The test is only a preliminary check — still test Pro-Tech+ itself on a small discreet area first to confirm the result before treating the whole surface.
 
-## What the result means
+### What the result means
 If the colour temporarily comes back when a dull part of the surface is wetted, the surface is faded and the chance of a successful result is high — and re-painting may not be needed at all.
 
-## Application instructions — Six steps, one afternoon
-
-1. **Clean the surface**
-   Make sure the surface is clean, dry and free of dust, grease and other contamination.
-
-2. **Apply evenly**
-   Shake the bottle well. Apply a thin, even layer of Afterfade Pro-Tech+ with the applicator pad.
-
-3. **Buff**
-   Gently buff the surface with a microfibre cloth. Do not let it dry for longer than 10 minutes.
-
-4. **Buff again**
-   Buff again with a second, clean microfibre cloth for an even, uniform finish.
-
-5. **Let it dry**
-   Let the product dry completely. Avoid contact with water or other substances for 24 hours while it cures.
-
-6. **Add an extra layer**
-   After 24 hours you can apply an extra layer for more protection. Buff it out again with a clean microfibre cloth, just like before. This strengthens the coating for a longer lasting, better protected result.
-
-> Do not let the coating dry for more than 10 minutes before buffing, and keep it away from water for 24 hours while it cures.
-
-## Template reply (Portuguese)
+### Template reply (Portuguese)
 ```
 Boa tarde Alex,
 
@@ -60,3 +42,19 @@ Com os melhores cumprimentos,
 
 Afterfade Support
 ```
+
+---
+
+## Part 2: Application Instructions
+
+For the full application guide (6 steps, surface prep, timing, extra coat), see:
+- **`kb/product_families/coatings/products.md`** — canonical application instructions, coverage figures, and technical data
+- **`kb/troubleshooting/common_issues.md`** — fixes for common application problems
+
+---
+
+## Related
+- **kb/product_families/coatings/products.md** — Pro-Tech+ product details and application guide
+- **kb/product_families/surface_prep/products.md** — Prep+ cleaning product
+- **data/contacts.json** — contact channels
+- **SOP-estimate-information.md** — quantity estimates for customer projects

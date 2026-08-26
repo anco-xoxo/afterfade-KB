@@ -1,7 +1,11 @@
 # SOP — Payments Overview
 
-## Purpose
-When customers ask about payment methods, how to pay by bank transfer, or have payment issues, refer to this SOP. Afterfade accepts multiple payment methods through Shopify checkout plus SEPA bank transfers.
+## When to use
+When customers ask about payment methods, how to pay by bank transfer, or have payment issues.
+
+## Key references
+- Payment methods, bank details, and troubleshooting: `data/payment_methods.json`
+- Klarna-specific questions: `SOP-klarna.md`
 
 ---
 
@@ -12,14 +16,12 @@ When customers ask about payment methods, how to pay by bank transfer, or have p
 | Credit/debit card | Standard Shopify checkout |
 | Shop Pay | Express checkout (Shopify) |
 | Apple Pay / Google Pay | Express checkout |
-| Klarna | Standard checkout only — see SOP-klarna.md |
+| Klarna | Standard checkout only — see `SOP-klarna.md` |
 | SEPA bank transfer | Manual process — see below |
-
----
 
 ## SEPA Bank Transfer
 
-### Bank Details
+### Bank Details (from `data/payment_methods.json`)
 
 | Field | Value |
 |---|---|
@@ -83,15 +85,6 @@ When customers ask about payment methods, how to pay by bank transfer, or have p
 >
 > Vermeld uw **bestelnummer** als betalingsreferentie. We versturen uw bestelling zodra de betaling is ontvangen (doorgaans 1–3 werkdagen).
 
-### Troubleshooting
-
-| Issue | Action |
-|---|---|
-| Customer sent payment but order not shipped | Check bank statement for incoming SEPA transfer with matching order number; confirm with finance |
-| Customer forgot order number as reference | Ask for payment proof (screenshot/statement), match amount and date, process manually |
-| Customer asks about processing time | Say 1–3 business days after payment is received |
-| Customer asks if they can still pay by card after requesting transfer | Yes, they can complete checkout normally via Shopify |
-
 ### Notes
 - Bank transfers are manual — shipping is not automatic. Someone must confirm payment before the order is marked as fulfilled.
 - Do not ship orders based on a promise to pay — only after funds are received.
@@ -99,6 +92,9 @@ When customers ask about payment methods, how to pay by bank transfer, or have p
 
 ---
 
-## Related SOPs
+## Related
+- **data/payment_methods.json** — bank details and troubleshooting
+- **data/contacts.json** — contact channels
 - **SOP-klarna.md** — Klarna-specific questions and troubleshooting
-- **SOP-refunds.md** — Refund process
+- **SOP-returns-and-refunds.md** — refund process
+- **SOP-checking-orders.md** — checking order status
