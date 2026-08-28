@@ -39,6 +39,6 @@ Afterfade Support
 
 ## Related
 - **kb/product_families/coatings/products.md** — canonical coverage figures and product details
-- **SOP-water-test.md** — water test and application instructions
+- **SOP-application.md** — full product application workflow
 - **SOP-painting-quotes.md** — professional painting service quotes (separate from DIY estimates)
 - **data/contacts.json** — contact channels

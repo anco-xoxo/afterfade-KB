@@ -40,14 +40,15 @@ Standard operating procedures for the support agent. Each SOP tells the agent **
 
 | File | Purpose |
 | --- | --- |
-| `SOP-water-test.md` | Water test procedure + application instructions reference |
+| `SOP-application.md` | Full product application workflow: water test, surface prep, application steps, coverage |
 | `SOP-payments.md` | Payment methods overview + SEPA bank transfer process |
 | `SOP-klarna.md` | Klarna checkout troubleshooting |
 | `SOP-returns-and-refunds.md` | Returns, refunds + shipping claims (Sendcloud) |
 | `SOP-ugc.md` | User-generated content incentive + Shopify discount codes |
 | `SOP-estimate-information.md` | Quantity estimates for DIY product orders |
 | `SOP-painting-quotes.md` | Professional on-site painting service quotes |
-| `SOP-checking-orders.md` | Checking order status in Sendcloud/Shopify |
+| `SOP-checking-orders.md` | Checking order status + customer address changes |
+| `SOP-shipment-investigation.md` | Investigation of returned/not-received parcels + DPD escalation |
 | `SOP-canary-islands-shipping.md` | Customs handling for Canary Islands orders |
 | `SOP-task-management.md` | Task tracking rules (Trello/Vocero) |
 

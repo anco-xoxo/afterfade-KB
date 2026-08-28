@@ -135,4 +135,22 @@ MSDS file = safety data sheet
 The emails of confirmation for a house number need to be sent from hello => however we have a problem it's going from info@afterfade.be 
 
  => we need a history of what discount campaings have been done 
- 
+
+
+ 26 of August 2026 
+
+ Justin went on holliday 
+
+ we decided to prioritize the ordserrs pending in sendcloud 
+
+ Justin said to send to azores is with UPS 
+
+ 27 august 2026 
+
+ that is a very good question - if not the shipping console how do we make sure a label was created and scanned ? 
+
+ 28 de agostos 
+
+ how to clean from an italian lady 
+
+updtaed the investigation workflow 

@@ -30,6 +30,18 @@
     "form_url": "afterfade.be/pages/offerte"
   },
   "website": "www.afterfade.be",
+  "carriers": {
+    "dpd": {
+      "note": "Only the sender (Afterfade) can request a parcel investigation with DPD. For parcels outside the Netherlands, DPD refers recipients back to the sender and investigations go through DPD's local office in the destination country (all local offices listed via Geopost).",
+      "investigation_after_days_no_update": 3,
+      "recipient_nl_phone": "085-0022222",
+      "recipient_nl_hours": "Mon–Fri 08:00–17:30, Sat 09:00–17:00",
+      "recipient_nl_note": "Applies only to recipients of a parcel within the Netherlands",
+      "offices": "Local DPD offices listed via Geopost",
+      "contact_form_recipient": "DPD contact form for recipients of a parcel",
+      "contact_form_sender": "DPD contact form for senders"
+    }
+  },
   "policies": {
     "refund_policy_url": "afterfade.be/policies/refund-policy"
   },

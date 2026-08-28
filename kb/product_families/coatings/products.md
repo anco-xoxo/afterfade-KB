@@ -10,15 +10,7 @@
 - Size: 250 ml (the declared fill is 250 g). Price: EUR 59,95.
 
 ## How to apply Afterfade Pro-Tech+
-- Clean and degrease with Afterfade Prep+ and let the surface dry fully. It must be free of dust and grease.
-- Shake the bottle well. Use it undiluted and do not mix it with anything else.
-- Test a small hidden area first, always for materials outside aluminium and PVC.
-- Apply one thin, even coat with the microfibre applicator or a cloth, panel by panel. Do not overload the surface; the product should soak in rather than sit on top.
-- Two thin coats are fine: apply the second coat 24 hours after the first. No need to degrease again in between, as long as the surface has stayed clean and dust-free.
-- After 10 minutes, wipe the surface off and polish it with a clean, dry, lint-free microfibre cloth. This step is required, not optional. Skipping it leaves a shiny, uneven finish that is slippery when wet.
-- Apply when both the surface and the air are between 10 and 30 degrees Celsius, out of direct sun, and not in rain or very hot weather.
-- Keep the surface protected and dry for 24 hours afterwards.
-- Clean tools and applicators with white spirit immediately after use.
+For the full application workflow (water test, surface prep, step-by-step instructions, coverage, templates), see **`Andrea/SOP-application.md`**.
 
 ## Afterfade Pro-Tech+ coverage
 The guide figure is about 2 doors plus 10 windows, or roughly 10 square metres, per bottle. Quote that figure. A higher figure is published on Afterfade's own product and kit pages (a double garage door plus an exterior door plus 10 to 15 window frames) and is [UNDER REVIEW], so do not repeat it. Coverage varies with surface condition: older, porous or heavily faded surfaces absorb more, a second coat needs extra, and applying too heavily uses the bottle up much faster than a thin coat does. Treat every coverage figure as a guide, never a guarantee.

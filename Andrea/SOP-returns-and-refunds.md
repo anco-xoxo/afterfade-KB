@@ -96,5 +96,6 @@ Use when a customer's parcel is lost, damaged, delivered but not received, or de
 - **data/returns.json** — return deadlines, eligibility, addresses
 - **data/contacts.json** — contact channels
 - **SOP-task-management.md** — task card tracking
+- **SOP-shipment-investigation.md** — returned/not-received parcel investigation and DPD escalation
 - **kb/policies/returns_warranty.md** — full official return policy
 - **SOP-canary-islands-shipping.md** — customs handling for Canary Islands orders
