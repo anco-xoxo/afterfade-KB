@@ -50,7 +50,7 @@ Only the **sender** (Afterfade) can request a parcel investigation with DPD. For
 ### How to request (per DPD's own guidance)
 - A customer parcel with no tracking update for more than **3 days** → the sender requests an investigation with DPD.
 - For parcels to countries other than the Netherlands → route through DPD's local office for that destination country (all local DPD offices are listed via Geopost).
-- If you are offering Afterfade's own DPD contact, file the investigation through the Sendcloud Support menu (see `SOP-returns-and-refunds.md`, Part 2) so it is tracked.
+- If you are offering Afterfade's own DPD contact, file the investigation through the Sendcloud Support menu (see `SOP-returns-and-refunds.md`, Part 4) so it is tracked.
 
 ### DPD (Netherlands) recipient support — for reference
 > Applies only to the recipient of a parcel *within the Netherlands*. Since Afterfade sends from Belgium to multiple countries, most inquiries fall under the sender/destination-country rule above, not this one.

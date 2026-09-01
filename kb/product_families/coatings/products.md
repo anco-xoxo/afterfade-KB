@@ -15,5 +15,8 @@ For the full application workflow (water test, surface prep, step-by-step instru
 ## Afterfade Pro-Tech+ coverage
 The guide figure is about 2 doors plus 10 windows, or roughly 10 square metres, per bottle. Quote that figure. A higher figure is published on Afterfade's own product and kit pages (a double garage door plus an exterior door plus 10 to 15 window frames) and is [UNDER REVIEW], so do not repeat it. Coverage varies with surface condition: older, porous or heavily faded surfaces absorb more, a second coat needs extra, and applying too heavily uses the bottle up much faster than a thin coat does. Treat every coverage figure as a guide, never a guarantee.
 
+## Afterfade Pro-Tech+ safety
+Afterfade Pro-Tech+ is classified as an eye irritant (H319, signal word Warning, pictogram GHS07). It is not classified as flammable. Wear eye protection when applying. Gloves are not required for normal application, but are recommended for prolonged or repeated skin contact. Keep out of reach of children. See Safety & Compliance for full safety data and hazard wording in other languages.
+
 ## Afterfade Pro-Tech+ technical data
 Colourless liquid with a characteristic odour. Density 1.03. Not soluble in water. VOC content under 160 g/l. French indoor air emissions class A+. Storage: 5 to 25 degrees Celsius in a dry place, upright, in the closed original container, away from frost and heat; shelf life 24 months from the production date in unopened original packaging. Base: solvent-borne, but not classified as flammable (its safety data sheet gives it as incombustible). See Safety & Compliance.

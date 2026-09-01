@@ -154,3 +154,19 @@ The emails of confirmation for a house number need to be sent from hello => howe
  how to clean from an italian lady 
 
 updtaed the investigation workflow 
+
+how to fuckign send to yaiza and funcha ffs 
+
+
+
+31st fo august 
+
+the return labels can be printed on sendlcoud eg Natasja 
+
+
+rules are in the SOP 
+
+question is it better if the parcel is returned to us or for them to keep it ? There was a lost parcel that was retrieved
+
+
+

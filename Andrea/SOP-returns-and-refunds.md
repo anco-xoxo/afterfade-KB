@@ -32,7 +32,7 @@ Spain
 
 ### Refund steps
 1. **Log the task.** Create a card for the refund on the task board (see `SOP-task-management.md`).
-2. **Check the order.** Verify the order and its status in Sendcloud; confirm it matches the customer's name and order number. If the parcel was lost or damaged in transit, see Part 2 below.
+2. **Check the order.** Verify the order and its status in Sendcloud; confirm it matches the customer's name and order number. If the parcel was lost or damaged in transit, see Part 4 below.
 3. **Confirm eligibility.** Check against the return policy above (notification within 14 days, seal not broken, not a custom item). Refunds are escalated to a human in case of doubt.
 4. **Give the return address.** Share the return address and ask the customer to send the items back with the order details.
 5. **Process the refund.** Once the goods arrive back (or proof of return shipment is provided), process the refund and issue it within 14 days of notification. Refund the purchase price and standard shipping only.
@@ -40,7 +40,77 @@ Spain
 
 ---
 
-## Part 2: Shipping Claims (Sendcloud)
+## Part 2: Creating & Editing a Return Label (Sendcloud)
+
+Use when approving a return and sending the customer a return (DPD) label, or when a label needs to be edited before it is used.
+
+### Before creating the label
+1. **Log the task** and open the order (see `SOP-checking-orders.md`).
+2. **Confirm eligibility** per the return policy in Part 1 (notified within 14 days, seal not broken, not a custom item).
+3. **Confirm the return address.** The return address is communicated once the return is approved and registered (see `data/returns.json`). Use the approved address / logistics partner for the label — do not assume an address.
+
+### Creating / editing the return label in Sendcloud
+**Create a return label:**
+1. In Sendcloud, open the shipment for the order (Shipping > Orders).
+2. Select the shipment and choose to create a return label for it (this generates the DPD return label and a return tracking number).
+3. Confirm the return address is correct before generating.
+
+**Edit a return label (if needed):**
+1. Open the return/shipment in Sendcloud.
+2. Edit the applicable fields (e.g. return address if the destination changed, or carrier details).
+3. Regenerate / save the label, and verify it opens correctly before sharing it with the customer.
+
+### Sending the label to the customer
+- Attach the generated return label (PDF) to the reply.
+- Give the customer the **return tracking number** from the label.
+- Share the **return instructions** and the return address (see the client template below).
+
+---
+
+## Part 3: Return Client Template (Dutch)
+
+Use when a return is approved and the DPD return label has been created. Adapt the order number and tracking number to the actual case; the return address shown (Spain — Carrer Sant Joan 3, 17491 Peralada) is the current international return address from `data/returns.json`. Confirm it against `data/returns.json` in case it changes — do not hardcode an outdated address.
+
+```
+Beste Natasja,
+
+Onze excuses voor de vertraging en bedankt voor uw geduld.
+
+Bedankt voor uw bericht.
+
+We hebben de retour voor bestelling AF-1230 aangemaakt. In de bijlage vindt u het DPD-retourlabel.
+
+U kunt de bestelling als volgt retourneren:
+
+1. Print het retourlabel uit.
+2. Bevestig het label goed zichtbaar op de buitenkant van het pakket.
+3. Breng het pakket naar een DPD Pickup parcelshop bij u in de buurt.
+4. Bewaar het verzendbewijs totdat de retour bij ons is aangekomen.
+
+Uw retourtrackingnummer is: [RETOURTRACKINGNUMMER].
+
+Het pakket mag worden teruggestuurd naar:
+
+Afterfade BV
+Carrer Sant Joan 3
+17491 Peralada
+Spanje
+
+Let er wel op dat de verzegeling van de coating en/of andere verzegelde chemische producten niet verbroken mag zijn om voor retour in aanmerking te komen.
+
+Zodra we de retour ontvangen hebben, kunnen we de terugbetaling verder verwerken volgens onze retourvoorwaarden.
+
+Nogmaals onze excuses voor de vertraging en bedankt voor uw begrip.
+
+Met vriendelijke groet,
+
+Afterfade Support
+hello@afterfade.be | +32 460 25 60 47 (WhatsApp)
+```
+
+---
+
+## Part 4: Shipping Claims (Sendcloud)
 
 ### When to use
 Use when a customer's parcel is lost, damaged, delivered but not received, or delayed, and Afterfade needs to start an investigation or file a claim with the carrier through Sendcloud.
@@ -96,6 +166,7 @@ Use when a customer's parcel is lost, damaged, delivered but not received, or de
 - **data/returns.json** — return deadlines, eligibility, addresses
 - **data/contacts.json** — contact channels
 - **SOP-task-management.md** — task card tracking
+- **SOP-checking-orders.md** — order lookup (open the order before creating a return label)
 - **SOP-shipment-investigation.md** — returned/not-received parcel investigation and DPD escalation
 - **kb/policies/returns_warranty.md** — full official return policy
 - **SOP-canary-islands-shipping.md** — customs handling for Canary Islands orders

@@ -43,7 +43,7 @@ Standard operating procedures for the support agent. Each SOP tells the agent **
 | `SOP-application.md` | Full product application workflow: water test, surface prep, application steps, coverage |
 | `SOP-payments.md` | Payment methods overview + SEPA bank transfer process |
 | `SOP-klarna.md` | Klarna checkout troubleshooting |
-| `SOP-returns-and-refunds.md` | Returns, refunds + shipping claims (Sendcloud) |
+| `SOP-returns-and-refunds.md` | Returns, refunds, return-label creation + shipping claims |
 | `SOP-ugc.md` | User-generated content incentive + Shopify discount codes |
 | `SOP-estimate-information.md` | Quantity estimates for DIY product orders |
 | `SOP-painting-quotes.md` | Professional on-site painting service quotes |
