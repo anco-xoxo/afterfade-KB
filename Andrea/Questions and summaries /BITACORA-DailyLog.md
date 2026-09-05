@@ -169,4 +169,32 @@ rules are in the SOP
 question is it better if the parcel is returned to us or for them to keep it ? There was a lost parcel that was retrieved
 
 
+2 seo 2026 
+
+the gloveas should go from https://euro-industry.com/main.php?index=cart&act=2&clientornot=2 euro-industry 
+
+Billing address 
+
+Afterfade BV
+
+Schaffensesteenweg 132 
+3583 PAAL
+
+BE1038625619
+
+Shipping addresss 
+
+Hasseltstraat 40
+Pelt 3900
+Belgium
+
+Sat 4 of Spetember 
+
+we talked about many things mainly adding a VA so that me Andrea I could go to a mroe operations role 
+
+Andrea's role descriptin 60% operations escalations 
+
+40% replying to emails, handlign and managing the VA 
+
+
 
