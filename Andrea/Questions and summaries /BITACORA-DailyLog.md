@@ -196,5 +196,50 @@ Andrea's role descriptin 60% operations escalations
 
 40% replying to emails, handlign and managing the VA 
 
+We talved about the VA responsabilities that are in notion 
+
+--
+--
+
+I decided on some processes 
+Trello is goign to be only for roder and things that will have a life 
+
+Memory will live in Notion in order to have a histique and more possibilities - this is stilla. work in progress but I've done a notes for each Justin, Sebastiaan and me. 
 
 
+5 septmeber 
+
+Justin added Greece, cezkia, danemark, croatia
+
+also added the gloves price 0.25 euros retail 2 eu 
+
+Ive asked justin to make the nofitication sound on Vocero 
+
+if we're not building a tool like zendesk we need to find aomehting like it to make it happend 
+of questions to which we should have answers. Eg How long does it take to process an order if in reality to ship it takes 
+us 3 days we should say 1 week or 5 working days. 
+
+Does the fullfiment center works in weekends ? 
+
+
+nobody replie sint he social media fb etc ... 
+
+Tuesday 8th of September 
+
+How do we deciede when to refund people ? or to give discounts( improtant and urgent )
+
+Today I learnt that you can modiufy the address in INpost if you have the mail or the phoen number => particuñarñy useufl as there's an issue with shopify not givign the right addrss to inpost 
+
+WTF is the difference between POst NL and Sendcloud ? I need more details to understand how to solve the issues (Improtant and URGENT)
+
+Sendcloud is dying => we will only use sendcloud for mondial relay fpor Belgium and anything outside of Europe continental 
+
+ sep 9 2026 
+
+ Justin asked me to send the sds to FUCKIGN NICK BREAKMAN (Im sorry I ask you for forgiveness, I thank yo u and I love you) ojala se muere perro ese hp 
+
+ September 10 
+
+ I need to make the ob description for the VA 
+
+ I'm working a lot today 
