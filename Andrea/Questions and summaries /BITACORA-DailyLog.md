@@ -243,3 +243,20 @@ Sendcloud is dying => we will only use sendcloud for mondial relay fpor Belgium 
  I need to make the ob description for the VA 
 
  I'm working a lot today 
+
+ 15 septemebr 
+
+ My computer got stolen on the saturday I came back LOL 
+ I am using Justins macbook air 
+
+
+ I neeed to do a lot of shit today 
+
+
+ Sarima https://app.vocero.io/inbox?c=d8b9b56e-208f-4c24-a28c-dc1779aeee27 
+
+ maybe a partner to instalations 
+
+
+how do we tracke the refund then ? 
+
