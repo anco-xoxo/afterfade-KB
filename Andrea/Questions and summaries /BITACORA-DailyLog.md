@@ -260,3 +260,64 @@ Sendcloud is dying => we will only use sendcloud for mondial relay fpor Belgium 
 
 how do we tracke the refund then ? 
 
+
+### 16 septemeber 2026 ###
+
+notes fopr andrea 
+
+- add de escalatiopn techniques to claude project 
+
+- Check the cases with DPD added 
+
+- Define the work flows visually fopr the SOP 
+
+- Review SOP's so that they make sense 
+
+- Make a daily check on ivnetory 
+
+- make a bi weekly  check on products 
+
+- Make DPD ionvetigation SOP 
+
+
+
+## Sebastiaans stuff ## 
+
+# Personal #
+
+
+- Sebastian Life insurance and health insurance 
+
+- 
+
+# Afterfade #
+
+- Fulfilment center => Need to send the docs to Maria de los naghelels 
+
+
+
+
+-------------
+for the VA 
+
+All trello cards should have the start date and a due date 
+
+check all pending issues in both boards 
+
+chekc the status of the shipping consiole + sendcloud 
+
+-----------
+
+
+Multifoam is supposed to come on the 18th of septemeber 
+
+Surface wash 5th of october 
+
+Protector surface eventually in oct 
+
+we predict sales arce going down 
+
+
+Justin is updating the invetory on the command center https://afterfade-postnl.vercel.app/shipping?key=a2cfff7ceebc0bd4ce5cc6a706b596f9ca259d3f
+
+labels are coming tomorrow 
