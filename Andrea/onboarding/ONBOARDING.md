@@ -53,7 +53,7 @@ The core product. Restores original colour and deep gloss of faded surfaces.
 - **Price:** EUR 59.95 (SKU AF-COAT-250)
 - **Coverage:** Approximately 10 square metres (2 doors + 10 windows) per bottle. This is a guide, never a guarantee.
 - **Compatible surfaces:** Aluminium and PVC (core range). Also works on plastic, painted surfaces, metal, painted wood, and stone (outside core tested range — always advise a test patch first).
-- **Never use on:** Glass, zinc, anything in prolonged water contact, floors, decking, steps, or walking surfaces.
+- **Never use on:** Glass, bare zinc (painted zinc is fine), anything in prolonged water contact, floors, decking, steps, or walking surfaces.
 
 Reference: `kb/product_families/coatings/overview.md`, `kb/product_families/coatings/products.md`, `kb/product_families/coatings/surfaces.md`
 

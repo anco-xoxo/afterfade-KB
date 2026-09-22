@@ -321,3 +321,16 @@ we predict sales arce going down
 Justin is updating the invetory on the command center https://afterfade-postnl.vercel.app/shipping?key=a2cfff7ceebc0bd4ce5cc6a706b596f9ca259d3f
 
 labels are coming tomorrow 
+
+
+Now I have the instruction applications in dutch 
+
+18 de septiembre 
+
+How do we select a pickup point using the command center ? 
+
+
+21 September 2026 
+We have received coatign so we're all good 
+
+I have shortlisted many VA and we have a few interviews for tomorrow 
