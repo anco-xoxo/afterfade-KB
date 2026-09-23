@@ -334,3 +334,39 @@ How do we select a pickup point using the command center ?
 We have received coatign so we're all good 
 
 I have shortlisted many VA and we have a few interviews for tomorrow 
+
+
+
+
+# 22 of September 2026 #
+
+interveiws it ws crazy 
+
+
+
+i promised them i was goign to send them a ping test for their internet connection 
+
+# 23 df of Septemebr #
+g the notes for the people yesterday 
+
+in the morning I ran the interview it was relatively easy I know what I'm lookign for 
+
+the best candiate by far rn is Camille 
+
+i the afternoon Ive been replying to emails 
+it0s working really well through the command centers app 
+
+I''ve not looked at the chats as per my previous message to Justin friday 18th of eptemeber 
+
+
+--------------------------------------------
+notes for Andrea 
+
+sop on how to deal with legal threath 
+
+persona lookign of how to deal with it by country 
+
+check the laws and make a KB with the day of consultation 
+
+
+the inventory is a messs but Gos will porvide at least that is what Justin says 
