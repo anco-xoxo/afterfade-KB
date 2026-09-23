@@ -362,6 +362,20 @@ I''ve not looked at the chats as per my previous message to Justin friday 18th o
 --------------------------------------------
 notes for Andrea 
 
+
+
+the inventory is a messs but Gos will porvide at least that is what Justin says 
+
+we need to make a note of billit how any invoices were there and how did we handle them 
+
+
+the first saturday of the month we do accounting 
+
+WE SHOULDN MAKE ANY LABELS ON SENDCLOUD we only use the command center 
+
+-----------
+
+ ## actions for Andrea ##
 sop on how to deal with legal threath 
 
 persona lookign of how to deal with it by country 
@@ -369,4 +383,6 @@ persona lookign of how to deal with it by country
 check the laws and make a KB with the day of consultation 
 
 
-the inventory is a messs but Gos will porvide at least that is what Justin says 
+billit historic 
+
+Sop on how to make an investigation on Sendcloud .... beurk me aburrre 
