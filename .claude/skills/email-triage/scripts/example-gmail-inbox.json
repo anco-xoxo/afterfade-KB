@@ -1,0 +1,1322 @@
+{
+  "messages": [
+    {
+      "id": "18f2a1b0c001",
+      "threadId": "18f2a1b0c001",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Hello,  I placed order AF-2614 on the 12th and it still has not arrived. That is 11 days overdue now and the tracking ha",
+      "historyId": "9000873",
+      "internalDate": "1790140320000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Lotte Vermeulen <lotte.vermeulen@example.be>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Order AF-2614 - still nothing after 11 days"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 07:12:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c001@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c001\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 245,
+              "data": "SGVsbG8sCgpJIHBsYWNlZCBvcmRlciBBRi0yNjE0IG9uIHRoZSAxMnRoIGFuZCBpdCBzdGlsbCBoYXMgbm90IGFycml2ZWQuIFRoYXQgaXMgMTEgZGF5cyBvdmVyZHVlIG5vdyBhbmQgdGhlIHRyYWNraW5nIGhhcyBub3QgbW92ZWQgc2luY2UgdGhlIDE1dGguCgpDYW4geW91IHRlbGwgbWUgd2hhdCBpcyBnb2luZyBvbj8gSWYgaXQgaXMgbG9zdCBJIHdvdWxkIGxpa2UgbXkgbW9uZXkgYmFjay4KCktpbmQgcmVnYXJkcywKTG90dGU="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 287,
+              "data": "PGRpdiBkaXI9Imx0ciI-SGVsbG8sPGJyPjxicj5JIHBsYWNlZCBvcmRlciBBRi0yNjE0IG9uIHRoZSAxMnRoIGFuZCBpdCBzdGlsbCBoYXMgbm90IGFycml2ZWQuIFRoYXQgaXMgMTEgZGF5cyBvdmVyZHVlIG5vdyBhbmQgdGhlIHRyYWNraW5nIGhhcyBub3QgbW92ZWQgc2luY2UgdGhlIDE1dGguPGJyPjxicj5DYW4geW91IHRlbGwgbWUgd2hhdCBpcyBnb2luZyBvbj8gSWYgaXQgaXMgbG9zdCBJIHdvdWxkIGxpa2UgbXkgbW9uZXkgYmFjay48YnI-PGJyPktpbmQgcmVnYXJkcyw8YnI-TG90dGU8L2Rpdj4="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2735,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c002",
+      "threadId": "18f2a1b0c002",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Goedemorgen,  Ik kreeg net bericht dat PostNL vandaag levert tussen 10:00 en 12:00, maar het huisnummer in de bestelling",
+      "historyId": "9000874",
+      "internalDate": "1790142060000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Jeroen de Wit <j.dewit@example.nl>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Huisnummer klopt niet - PostNL levert vandaag"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 07:41:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c002@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c002\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 235,
+              "data": "R29lZGVtb3JnZW4sCgpJayBrcmVlZyBuZXQgYmVyaWNodCBkYXQgUG9zdE5MIHZhbmRhYWcgbGV2ZXJ0IHR1c3NlbiAxMDowMCBlbiAxMjowMCwgbWFhciBoZXQgaHVpc251bW1lciBpbiBkZSBiZXN0ZWxsaW5nIGtsb3B0IG5pZXQuIEhldCBtb2V0IDExNCB6aWpuLCBuaWV0IDE0LgoKS2FuIGRpdCBub2cgYWFuZ2VwYXN0IHdvcmRlbiB2b29yIGRlIGNoYXVmZmV1ciB2ZXJ0cmVrdD8KCkdyb2V0ZW4sCkplcm9lbg=="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 277,
+              "data": "PGRpdiBkaXI9Imx0ciI-R29lZGVtb3JnZW4sPGJyPjxicj5JayBrcmVlZyBuZXQgYmVyaWNodCBkYXQgUG9zdE5MIHZhbmRhYWcgbGV2ZXJ0IHR1c3NlbiAxMDowMCBlbiAxMjowMCwgbWFhciBoZXQgaHVpc251bW1lciBpbiBkZSBiZXN0ZWxsaW5nIGtsb3B0IG5pZXQuIEhldCBtb2V0IDExNCB6aWpuLCBuaWV0IDE0Ljxicj48YnI-S2FuIGRpdCBub2cgYWFuZ2VwYXN0IHdvcmRlbiB2b29yIGRlIGNoYXVmZmV1ciB2ZXJ0cmVrdD88YnI-PGJyPkdyb2V0ZW4sPGJyPkplcm9lbjwvZGl2Pg=="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2705,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c003",
+      "threadId": "18f2a1b0c003",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Hi,  My card was charged twice for order AF-2701, 118 EUR each time. I have the two lines on my statement.  Please refun",
+      "historyId": "9000875",
+      "internalDate": "1790143500000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Sebastien Moreau <s.moreau@example.com>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "I was charged twice for AF-2701"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 08:05:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c003@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c003\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 228,
+              "data": "SGksCgpNeSBjYXJkIHdhcyBjaGFyZ2VkIHR3aWNlIGZvciBvcmRlciBBRi0yNzAxLCAxMTggRVVSIGVhY2ggdGltZS4gSSBoYXZlIHRoZSB0d28gbGluZXMgb24gbXkgc3RhdGVtZW50LgoKUGxlYXNlIHJlZnVuZCB0aGUgc2Vjb25kIGNoYXJnZSB0b2RheS4gSWYgSSBkbyBub3QgaGVhciBiYWNrIEkgd2lsbCBkaXNwdXRlIGl0IHdpdGggbXkgYmFuayB0b21vcnJvdyBtb3JuaW5nLgoKU2ViYXN0aWVu"
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 267,
+              "data": "PGRpdiBkaXI9Imx0ciI-SGksPGJyPjxicj5NeSBjYXJkIHdhcyBjaGFyZ2VkIHR3aWNlIGZvciBvcmRlciBBRi0yNzAxLCAxMTggRVVSIGVhY2ggdGltZS4gSSBoYXZlIHRoZSB0d28gbGluZXMgb24gbXkgc3RhdGVtZW50Ljxicj48YnI-UGxlYXNlIHJlZnVuZCB0aGUgc2Vjb25kIGNoYXJnZSB0b2RheS4gSWYgSSBkbyBub3QgaGVhciBiYWNrIEkgd2lsbCBkaXNwdXRlIGl0IHdpdGggbXkgYmFuayB0b21vcnJvdyBtb3JuaW5nLjxicj48YnI-U2ViYXN0aWVuPC9kaXY-"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2684,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "VIP",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c004",
+      "threadId": "18f2a1b0c004",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Bonjour,  Mon colis a ete retourne au point relais et ensuite renvoye a l'expediteur parce que je n'ai pas pu le recuper",
+      "historyId": "9000876",
+      "internalDate": "1790145180000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Camille Dubois <camille.dubois@example.fr>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Colis retourne au point relais"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 08:33:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c004@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c004\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 237,
+              "data": "Qm9uam91ciwKCk1vbiBjb2xpcyBhIGV0ZSByZXRvdXJuZSBhdSBwb2ludCByZWxhaXMgZXQgZW5zdWl0ZSByZW52b3llIGEgbCdleHBlZGl0ZXVyIHBhcmNlIHF1ZSBqZSBuJ2FpIHBhcyBwdSBsZSByZWN1cGVyZXIgYSB0ZW1wcy4KCkVzdC1jZSBxdWUgdm91cyBwb3V2ZXogbGUgcmVudm95ZXIgYSBtb24gYWRyZXNzZSBhIGRvbWljaWxlID8gQ29tbWFuZGUgQUYtMjY4OC4KCk1lcmNpIGQnYXZhbmNlLApDYW1pbGxl"
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 279,
+              "data": "PGRpdiBkaXI9Imx0ciI-Qm9uam91ciw8YnI-PGJyPk1vbiBjb2xpcyBhIGV0ZSByZXRvdXJuZSBhdSBwb2ludCByZWxhaXMgZXQgZW5zdWl0ZSByZW52b3llIGEgbCdleHBlZGl0ZXVyIHBhcmNlIHF1ZSBqZSBuJ2FpIHBhcyBwdSBsZSByZWN1cGVyZXIgYSB0ZW1wcy48YnI-PGJyPkVzdC1jZSBxdWUgdm91cyBwb3V2ZXogbGUgcmVudm95ZXIgYSBtb24gYWRyZXNzZSBhIGRvbWljaWxlID8gQ29tbWFuZGUgQUYtMjY4OC48YnI-PGJyPk1lcmNpIGQnYXZhbmNlLDxicj5DYW1pbGxlPC9kaXY-"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2711,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c005",
+      "threadId": "18f2a1b0c005",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Hallo,  Ik wil mijn bestelling AF-2695 retourneren, de kleur is toch niet wat ik zocht. Kan je mij een retourlabel sture",
+      "historyId": "9000877",
+      "internalDate": "1790146680000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Sofie Claes <sofie.claes@example.be>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Retourlabel aanvragen"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 08:58:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c005@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c005\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 138,
+              "data": "SGFsbG8sCgpJayB3aWwgbWlqbiBiZXN0ZWxsaW5nIEFGLTI2OTUgcmV0b3VybmVyZW4sIGRlIGtsZXVyIGlzIHRvY2ggbmlldCB3YXQgaWsgem9jaHQuIEthbiBqZSBtaWogZWVuIHJldG91cmxhYmVsIHN0dXJlbj8KCkRhbmsgamUsClNvZmll"
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 174,
+              "data": "PGRpdiBkaXI9Imx0ciI-SGFsbG8sPGJyPjxicj5JayB3aWwgbWlqbiBiZXN0ZWxsaW5nIEFGLTI2OTUgcmV0b3VybmVyZW4sIGRlIGtsZXVyIGlzIHRvY2ggbmlldCB3YXQgaWsgem9jaHQuIEthbiBqZSBtaWogZWVuIHJldG91cmxhYmVsIHN0dXJlbj88YnI-PGJyPkRhbmsgamUsPGJyPlNvZmllPC9kaXY-"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2414,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c006",
+      "threadId": "18f2a1b0c006",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Hi team,  The box arrived this morning and one of the bottles is broken - the coating leaked all over the second bottle ",
+      "historyId": "9000878",
+      "internalDate": "1790147640000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Marek Novak <m.novak@example.com>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Bottle arrived broken and leaking"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 09:14:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c006@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c006\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 211,
+              "data": "SGkgdGVhbSwKClRoZSBib3ggYXJyaXZlZCB0aGlzIG1vcm5pbmcgYW5kIG9uZSBvZiB0aGUgYm90dGxlcyBpcyBicm9rZW4gLSB0aGUgY29hdGluZyBsZWFrZWQgYWxsIG92ZXIgdGhlIHNlY29uZCBib3R0bGUgYW5kIHRoZSBpbnN0cnVjdGlvbnMuCgpPcmRlciBBRi0yNzAyLiBJIGhhdmUgcGhvdG9zLCBsZXQgbWUga25vdyB3aGVyZSB0byBzZW5kIHRoZW0uCgpNYXJlaw=="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 250,
+              "data": "PGRpdiBkaXI9Imx0ciI-SGkgdGVhbSw8YnI-PGJyPlRoZSBib3ggYXJyaXZlZCB0aGlzIG1vcm5pbmcgYW5kIG9uZSBvZiB0aGUgYm90dGxlcyBpcyBicm9rZW4gLSB0aGUgY29hdGluZyBsZWFrZWQgYWxsIG92ZXIgdGhlIHNlY29uZCBib3R0bGUgYW5kIHRoZSBpbnN0cnVjdGlvbnMuPGJyPjxicj5PcmRlciBBRi0yNzAyLiBJIGhhdmUgcGhvdG9zLCBsZXQgbWUga25vdyB3aGVyZSB0byBzZW5kIHRoZW0uPGJyPjxicj5NYXJlazwvZGl2Pg=="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2633,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c007",
+      "threadId": "18f2a1b0c007",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Bonjour,  Je viens de passer la commande AF-2711. J'ai choisi un point relais mais je prefererais une livraison a domici",
+      "historyId": "9000879",
+      "internalDate": "1790148960000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Marc Lefevre <marc.lefevre@example.fr>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Changer l'adresse de livraison"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 09:36:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c007@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c007\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 206,
+              "data": "Qm9uam91ciwKCkplIHZpZW5zIGRlIHBhc3NlciBsYSBjb21tYW5kZSBBRi0yNzExLiBKJ2FpIGNob2lzaSB1biBwb2ludCByZWxhaXMgbWFpcyBqZSBwcmVmZXJlcmFpcyB1bmUgbGl2cmFpc29uIGEgZG9taWNpbGUuCgpFc3QtY2UgcXVlIHZvdXMgcG91dmV6IGNoYW5nZXIgbCdhZHJlc3NlIGF2YW50IGwnZXhwZWRpdGlvbiA_CgpDb3JkaWFsZW1lbnQsCk1hcmM="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 248,
+              "data": "PGRpdiBkaXI9Imx0ciI-Qm9uam91ciw8YnI-PGJyPkplIHZpZW5zIGRlIHBhc3NlciBsYSBjb21tYW5kZSBBRi0yNzExLiBKJ2FpIGNob2lzaSB1biBwb2ludCByZWxhaXMgbWFpcyBqZSBwcmVmZXJlcmFpcyB1bmUgbGl2cmFpc29uIGEgZG9taWNpbGUuPGJyPjxicj5Fc3QtY2UgcXVlIHZvdXMgcG91dmV6IGNoYW5nZXIgbCdhZHJlc3NlIGF2YW50IGwnZXhwZWRpdGlvbiA_PGJyPjxicj5Db3JkaWFsZW1lbnQsPGJyPk1hcmM8L2Rpdj4="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2618,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c008",
+      "threadId": "18f2a1b0c008",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Beste,  Kan ik een factuur krijgen voor bestelling AF-2690? Onze boekhouding sluit het kwartaal af, dus liefst vandaag n",
+      "historyId": "9000880",
+      "internalDate": "1790149920000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Anja Peeters <boekhouding@example-bv.be>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Factuur nodig voor bestelling AF-2690"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 09:52:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c008@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c008\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 161,
+              "data": "QmVzdGUsCgpLYW4gaWsgZWVuIGZhY3R1dXIga3JpamdlbiB2b29yIGJlc3RlbGxpbmcgQUYtMjY5MD8gT256ZSBib2VraG91ZGluZyBzbHVpdCBoZXQga3dhcnRhYWwgYWYsIGR1cyBsaWVmc3QgdmFuZGFhZyBub2cuCgpNZXQgdnJpZW5kZWxpamtlIGdyb2V0LApBbmphIFBlZXRlcnM="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 197,
+              "data": "PGRpdiBkaXI9Imx0ciI-QmVzdGUsPGJyPjxicj5LYW4gaWsgZWVuIGZhY3R1dXIga3JpamdlbiB2b29yIGJlc3RlbGxpbmcgQUYtMjY5MD8gT256ZSBib2VraG91ZGluZyBzbHVpdCBoZXQga3dhcnRhYWwgYWYsIGR1cyBsaWVmc3QgdmFuZGFhZyBub2cuPGJyPjxicj5NZXQgdnJpZW5kZWxpamtlIGdyb2V0LDxicj5BbmphIFBlZXRlcnM8L2Rpdj4="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2483,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c009",
+      "threadId": "18f2a1b0c009",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "URGENT!!! I ordered two days ago and I still do not see anything at my door. Where is my package??? Please answer ASAP!!",
+      "historyId": "9000881",
+      "internalDate": "1790150520000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Tom Janssens <tom.janssens@example.be>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "URGENT!!! Where is my package???"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 10:02:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c009@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c009\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 126,
+              "data": "VVJHRU5UISEhIEkgb3JkZXJlZCB0d28gZGF5cyBhZ28gYW5kIEkgc3RpbGwgZG8gbm90IHNlZSBhbnl0aGluZyBhdCBteSBkb29yLiBXaGVyZSBpcyBteSBwYWNrYWdlPz8_IFBsZWFzZSBhbnN3ZXIgQVNBUCEhIQoKVG9t"
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 153,
+              "data": "PGRpdiBkaXI9Imx0ciI-VVJHRU5UISEhIEkgb3JkZXJlZCB0d28gZGF5cyBhZ28gYW5kIEkgc3RpbGwgZG8gbm90IHNlZSBhbnl0aGluZyBhdCBteSBkb29yLiBXaGVyZSBpcyBteSBwYWNrYWdlPz8_IFBsZWFzZSBhbnN3ZXIgQVNBUCEhITxicj48YnI-VG9tPC9kaXY-"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2378,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c010",
+      "threadId": "18f2a1b0c009",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Any update??  Tom  On Wed, 23 Sep 2026 at 10:02, Tom Janssens <tom.janssens@example.be> wrote: > URGENT!!! I ordered two",
+      "historyId": "9000908",
+      "internalDate": "1790153220000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Tom Janssens <tom.janssens@example.be>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Re: URGENT!!! Where is my package???"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 10:47:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c010@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c010\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 226,
+              "data": "QW55IHVwZGF0ZT8_CgpUb20KCk9uIFdlZCwgMjMgU2VwIDIwMjYgYXQgMTA6MDIsIFRvbSBKYW5zc2VucyA8dG9tLmphbnNzZW5zQGV4YW1wbGUuYmU-IHdyb3RlOgo-IFVSR0VOVCEhISBJIG9yZGVyZWQgdHdvIGRheXMgYWdvIGFuZCBJIHN0aWxsIGRvIG5vdCBzZWUgYW55dGhpbmcgYXQgbXkgZG9vci4KPiBXaGVyZSBpcyBteSBwYWNrYWdlPz8_IFBsZWFzZSBhbnN3ZXIgQVNBUCEhIQo-IFRvbQ=="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 268,
+              "data": "PGRpdiBkaXI9Imx0ciI-QW55IHVwZGF0ZT8_PGJyPjxicj5Ub208YnI-PGJyPk9uIFdlZCwgMjMgU2VwIDIwMjYgYXQgMTA6MDIsIFRvbSBKYW5zc2VucyA8dG9tLmphbnNzZW5zQGV4YW1wbGUuYmU-IHdyb3RlOjxicj4-IFVSR0VOVCEhISBJIG9yZGVyZWQgdHdvIGRheXMgYWdvIGFuZCBJIHN0aWxsIGRvIG5vdCBzZWUgYW55dGhpbmcgYXQgbXkgZG9vci48YnI-PiBXaGVyZSBpcyBteSBwYWNrYWdlPz8_IFBsZWFzZSBhbnN3ZXIgQVNBUCEhITxicj4-IFRvbTwvZGl2Pg=="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2678,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c011",
+      "threadId": "18f2a1b0c011",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Hallo,  Wat zijn jullie retourvoorwaarden precies? Ik twijfel nog tussen twee kits en wil weten hoe lang ik heb om terug",
+      "historyId": "9000909",
+      "internalDate": "1790154300000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Eva Martens <eva.martens@example.nl>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Vraag over retourvoorwaarden"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 11:05:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c011@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c011\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 146,
+              "data": "SGFsbG8sCgpXYXQgemlqbiBqdWxsaWUgcmV0b3Vydm9vcndhYXJkZW4gcHJlY2llcz8gSWsgdHdpamZlbCBub2cgdHVzc2VuIHR3ZWUga2l0cyBlbiB3aWwgd2V0ZW4gaG9lIGxhbmcgaWsgaGViIG9tIHRlcnVnIHRlIHN0dXJlbi4KCkdyb2V0amVzLApFdmE="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 182,
+              "data": "PGRpdiBkaXI9Imx0ciI-SGFsbG8sPGJyPjxicj5XYXQgemlqbiBqdWxsaWUgcmV0b3Vydm9vcndhYXJkZW4gcHJlY2llcz8gSWsgdHdpamZlbCBub2cgdHVzc2VuIHR3ZWUga2l0cyBlbiB3aWwgd2V0ZW4gaG9lIGxhbmcgaWsgaGViIG9tIHRlcnVnIHRlIHN0dXJlbi48YnI-PGJyPkdyb2V0amVzLDxicj5FdmE8L2Rpdj4="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2438,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c012",
+      "threadId": "18f2a1b0c012",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Dear Afterfade,  We are a reseller based in Antwerp and we fit out roughly 40 kitchens a year. We would like a wholesale",
+      "historyId": "9000910",
+      "internalDate": "1790155680000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Studio Kern <procurement@studiokern.example>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Wholesale enquiry - 60 complete kits"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 11:28:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c012@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c012\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 330,
+              "data": "RGVhciBBZnRlcmZhZGUsCgpXZSBhcmUgYSByZXNlbGxlciBiYXNlZCBpbiBBbnR3ZXJwIGFuZCB3ZSBmaXQgb3V0IHJvdWdobHkgNDAga2l0Y2hlbnMgYSB5ZWFyLiBXZSB3b3VsZCBsaWtlIGEgd2hvbGVzYWxlIHF1b3RlIGZvciA2MCBjb21wbGV0ZSBraXRzLCBhbmQgd2Ugd291bGQgYWxzbyBuZWVkIHRvIGRpc2N1c3MgYSBjdXN0b20gY29sb3VyIGZvciBvbmUgb2Ygb3VyIHJlY3VycmluZyBjbGllbnRzLgoKV2hvIGlzIHRoZSByaWdodCBwZXJzb24gdG8gc3BlYWsgdG8gYWJvdXQgdHJhZGUgcHJpY2luZz8KCkJlc3QgcmVnYXJkcywKSWxzZSBWYW4gRGFtClN0dWRpbyBLZXJu"
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 375,
+              "data": "PGRpdiBkaXI9Imx0ciI-RGVhciBBZnRlcmZhZGUsPGJyPjxicj5XZSBhcmUgYSByZXNlbGxlciBiYXNlZCBpbiBBbnR3ZXJwIGFuZCB3ZSBmaXQgb3V0IHJvdWdobHkgNDAga2l0Y2hlbnMgYSB5ZWFyLiBXZSB3b3VsZCBsaWtlIGEgd2hvbGVzYWxlIHF1b3RlIGZvciA2MCBjb21wbGV0ZSBraXRzLCBhbmQgd2Ugd291bGQgYWxzbyBuZWVkIHRvIGRpc2N1c3MgYSBjdXN0b20gY29sb3VyIGZvciBvbmUgb2Ygb3VyIHJlY3VycmluZyBjbGllbnRzLjxicj48YnI-V2hvIGlzIHRoZSByaWdodCBwZXJzb24gdG8gc3BlYWsgdG8gYWJvdXQgdHJhZGUgcHJpY2luZz88YnI-PGJyPkJlc3QgcmVnYXJkcyw8YnI-SWxzZSBWYW4gRGFtPGJyPlN0dWRpbyBLZXJuPC9kaXY-"
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2990,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c013",
+      "threadId": "18f2a1b0c013",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ],
+      "snippet": "Hi,  I have a quick question about my order, can someone call me back?  Thanks, Nadia",
+      "historyId": "9000911",
+      "internalDate": "1790156640000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Nadia B. <nadia.b@example.com>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "Quick question"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 11:44:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c013@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c013\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 85,
+              "data": "SGksCgpJIGhhdmUgYSBxdWljayBxdWVzdGlvbiBhYm91dCBteSBvcmRlciwgY2FuIHNvbWVvbmUgY2FsbCBtZSBiYWNrPwoKVGhhbmtzLApOYWRpYQ=="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 121,
+              "data": "PGRpdiBkaXI9Imx0ciI-SGksPGJyPjxicj5JIGhhdmUgYSBxdWljayBxdWVzdGlvbiBhYm91dCBteSBvcmRlciwgY2FuIHNvbWVvbmUgY2FsbCBtZSBiYWNrPzxicj48YnI-VGhhbmtzLDxicj5OYWRpYTwvZGl2Pg=="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2255,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Customers"
+      ]
+    },
+    {
+      "id": "18f2a1b0c014",
+      "threadId": "18f2a1b0c014",
+      "labelIds": [
+        "UNREAD",
+        "CATEGORY_PROMOTIONS",
+        "INBOX"
+      ],
+      "snippet": "Join our Q4 webinar on carrier rates and parcel volume planning.  Register now. Unsubscribe here.",
+      "historyId": "9000912",
+      "internalDate": "1790137800000",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Delivered-To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "From",
+            "value": "Sendcloud <no-reply@news.sendcloud.example>"
+          },
+          {
+            "name": "To",
+            "value": "hello@afterfade.be"
+          },
+          {
+            "name": "Subject",
+            "value": "New carrier rates for Q4 - webinar invitation"
+          },
+          {
+            "name": "Date",
+            "value": "Wed, 23 Sep 2026 06:30:00 +0200"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<18f2a1b0c014@mail.example>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b0c014\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 97,
+              "data": "Sm9pbiBvdXIgUTQgd2ViaW5hciBvbiBjYXJyaWVyIHJhdGVzIGFuZCBwYXJjZWwgdm9sdW1lIHBsYW5uaW5nLgoKUmVnaXN0ZXIgbm93LiBVbnN1YnNjcmliZSBoZXJlLg=="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              }
+            ],
+            "body": {
+              "size": 124,
+              "data": "PGRpdiBkaXI9Imx0ciI-Sm9pbiBvdXIgUTQgd2ViaW5hciBvbiBjYXJyaWVyIHJhdGVzIGFuZCBwYXJjZWwgdm9sdW1lIHBsYW5uaW5nLjxicj48YnI-UmVnaXN0ZXIgbm93LiBVbnN1YnNjcmliZSBoZXJlLjwvZGl2Pg=="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 2291,
+      "labels": [
+        "UNREAD",
+        "INBOX",
+        "Promotions"
+      ]
+    }
+  ],
+  "resultSizeEstimate": 14
+}

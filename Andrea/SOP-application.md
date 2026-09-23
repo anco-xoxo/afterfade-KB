@@ -9,6 +9,9 @@ Use when a customer asks how to apply Afterfade Pro-Tech+, needs help with surfa
 
 Before applying Pro-Tech+, verify the surface is faded and suitable.
 
+### Surface compatibility
+Recommend aluminium and PVC first. Pro-Tech+ can also be used on plastic, painted surfaces, metal, painted wood and stone. **Zinc rule:** painted zinc (e.g. painted zinc roofing or gutters) is fine — treat it like any other painted surface; bare or uncoated zinc is out of scope. For anything outside aluminium and PVC, tell the customer to test a small hidden area first and do not promise a specific result or lifespan. Full list: `kb/product_families/coatings/surfaces.md`.
+
 1. Clean a small area well, removing dirt and grease, and let it dry completely.
 2. Place a few drops of clean water on the surface.
 3. Observe how the water behaves:
@@ -136,6 +139,7 @@ Afterfade Support
 
 ## Related
 - **kb/product_families/coatings/products.md** — Pro-Tech+ product details and technical data
+- **kb/product_families/coatings/surfaces.md** — full surface compatibility list including the zinc rule
 - **kb/product_families/surface_prep/products.md** — Prep+ cleaning product
 - **kb/troubleshooting/common_issues.md** — fixes for common application problems
 - **data/contacts.json** — contact channels

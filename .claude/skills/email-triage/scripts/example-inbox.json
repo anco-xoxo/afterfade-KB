@@ -1,0 +1,66 @@
+[
+  {
+    "id": "AF-9001",
+    "from": "lotte@example.be",
+    "subject": "Order AF-2614 still not here",
+    "body": "Order AF-2614 is 11 days overdue, please update me.",
+    "received_at": "2026-09-23T08:15:00+02:00",
+    "days_overdue": 11,
+    "order_value_eur": 89
+  },
+  {
+    "id": "AF-9002",
+    "from": "jeroen@example.nl",
+    "subject": "Verkeerd huisnummer",
+    "body": "PostNL levert vandaag, maar het huisnummer klopt niet. Kan dat nog aangepast worden?",
+    "received_at": "2026-09-23T08:40:00+02:00",
+    "delivery_status": "out_for_delivery"
+  },
+  {
+    "id": "AF-9003",
+    "from": "vip@example.com",
+    "subject": "Double charge on my card",
+    "body": "I was charged twice and will dispute it with my bank tomorrow.",
+    "received_at": "2026-09-23T09:02:00+02:00",
+    "refund_amount_eur": 118,
+    "hours_to_dispute_deadline": 20
+  },
+  {
+    "id": "AF-9004",
+    "from": "sofie@example.be",
+    "subject": "Retourlabel",
+    "body": "Ik wil mijn bestelling retourneren, kan je een retourlabel sturen?",
+    "received_at": "2026-09-23T09:20:00+02:00"
+  },
+  {
+    "id": "AF-9005",
+    "from": "marc@example.fr",
+    "subject": "Changer l'adresse",
+    "body": "Puis-je changer la livraison du point relais vers mon adresse a domicile ?",
+    "received_at": "2026-09-23T09:35:00+02:00",
+    "delivery_status": "pre_dispatch"
+  },
+  {
+    "id": "AF-9006",
+    "from": "tom@example.be",
+    "subject": "URGENT!!! Where is my package??",
+    "body": "Where is my package? Ordered two days ago.",
+    "received_at": "2026-09-23T09:50:00+02:00",
+    "delivery_status": "in_transit"
+  },
+  {
+    "id": "AF-9007",
+    "from": "tom@example.be",
+    "subject": "Any update??",
+    "body": "Any update??",
+    "received_at": "2026-09-23T10:05:00+02:00",
+    "duplicate_of": "AF-9006"
+  },
+  {
+    "id": "AF-9008",
+    "from": "studio@example.com",
+    "subject": "Wholesale enquiry",
+    "body": "We are a reseller in Antwerp and would like a wholesale quote for 60 complete kits.",
+    "received_at": "2026-09-23T10:30:00+02:00"
+  }
+]
