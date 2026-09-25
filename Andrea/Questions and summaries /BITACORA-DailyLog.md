@@ -91,7 +91,7 @@ For a chat
 -> Create the Accounts-md [Questions and Summaries/ Summaries / Accounts.md]
 to keep track of the inboxes and the accounts 
 
--> We created the correos accopunt for Coverso with hola@coverso.io pw:Coverso31102021!
+-> We created the Correos account for Coverso; credentials are stored in the encrypted account vault.
 
 [Set up of my iphone ]
 -> set up passkey for shopify dahsboard on my iphone 14 pro max 
@@ -121,7 +121,7 @@ Is it possible to repaint after applying the coating, considering the adhesion?
 
 what do we we do if they couldn't deliver the parcel as it's returning to us ?
 
-crfeated post NL account pw: AfterfadeCustomerService10! 
+created PostNL account; credentials are stored in the encrypted account vault.
 
 Inpost is with Post NL 
 
@@ -386,3 +386,70 @@ check the laws and make a KB with the day of consultation
 billit historic 
 
 Sop on how to make an investigation on Sendcloud .... beurk me aburrre 
+
+
+
+# 24th of September #
+
+the main main issue is the trackign of the issue like heerr hoolt how da fuq am I following up in any shape way or form unless he replies back ? What is our service design our SLA? Our stuff 
+
+his is definetlly bellow 
+
+Emails pending in info 
+85
+emails waiting on us
+2 to resolve now
+
+Emails pendign in hello 
+34
+emails waiting on us
+
+there so many ordersd that have been cancelled by GLS 
+
+
+we need to improve the layout of the app for readabilityu 
+ today I let some issue as tabs opened in 
+
+the emai theread are nto iudeal and there are no pictured 
+
+# 25th of Septemeber #
+
+There was some changes in the tikto shop - I predict it's going to be an issue 
+
+
+We need to check because there's a real apetite for the samples 
+
+
+Justin said in whatsapp he handled all the whatsappcases . I'm gonna file them in the email 
+
+questions => how do people get their codes to pick-up point in DPD ? What do we do when they don't get the codes and they can't get their stuff 
+
+--------
+
+Taks for the VA hiring process 
+
+-> Send the ping test for the internet connection 
+
+-> Priorization task and email 
+
+-> recomendation letters 
+
+
+what do I expect 
+
+Raise the issue properly - Flag it - Document it => try to solve it 
+
+i want to have trustworthy people I can count on 
+
+
+------------- 
+
+
+i'm makign the processes as I go it's madddd 
+
+
+for bpost sebastiaan goes and drops it there 
+
+AF6941 how do we choose who is right if the customer says they only received 1 kit instead of 2 ? do we ask for photos ? do we ehcke the wiehgt ? .... what do we do 
+
+

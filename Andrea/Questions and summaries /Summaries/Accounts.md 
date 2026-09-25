@@ -1,5 +1,9 @@
-hello@afterfade.be => should be used for the client questions 
- pw:AfterfadeCustomerService10
+## Encrypted account vault
+
+The account details are stored in `Accounts.md.age` in this directory. Decrypt locally with `age -d -o Accounts.md Accounts.md.age`.
+
+hello@afterfade.be => should be used for the client questions
+ [credential stored in Accounts.md.age]
 
 
  => Shopify dashaboard 
@@ -7,7 +11,6 @@ hello@afterfade.be => should be used for the client questions
  => 
 
 info@afterfade.be => should be for Sebastiaan and more admin stuff 
-pw: 
 
 
 today 20 of august 2026 we create hola@coverso.io
@@ -16,15 +19,15 @@ today 20 of august 2026 we create hola@coverso.io
 https://mioficina.correos.es/es/es/login
 
 id:hola@coverso.io
-pw:Coverso31102021!
+[credential stored in Accounts.md.age]
 
-[where the pw is empty it means it's missing]
+[Blank entries mean the account credential was not recorded.]
 
 
 
 POST NBL 
 
-pw:AfterfadeCustomerService10!
+[credential stored in Accounts.md.age]
 
 
 DPD 
@@ -32,4 +35,4 @@ DPD
 https://dpd-belux.my.site.com/myDPD/s/
 
 id:Info@
-pw: Claritycoat2026!
+[credential stored in Accounts.md.age]
