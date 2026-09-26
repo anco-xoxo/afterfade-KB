@@ -423,6 +423,8 @@ We need to check because there's a real apetite for the samples
 Justin said in whatsapp he handled all the whatsappcases . I'm gonna file them in the email 
 
 questions => how do people get their codes to pick-up point in DPD ? What do we do when they don't get the codes and they can't get their stuff 
+answer : You can send an email towards sender.care@dpd.be. Our colleagues will then start an investigation
+
 
 --------
 
@@ -452,4 +454,34 @@ for bpost sebastiaan goes and drops it there
 
 AF6941 how do we choose who is right if the customer says they only received 1 kit instead of 2 ? do we ask for photos ? do we ehcke the wiehgt ? .... what do we do 
 
+
+We relly truly do need a place to centralize everything like the emails sent and the investigations we're doing before we brign a VA 
+for example I need to keep track of what happened with the order AF-6954 which is a correction of AF-4010
+
+
+# 26th of September #
+
+Focusing on replying to VA people 
+
+= rejected Alyssa 
+
+= rejected ailen https://v2.onlinejobs.ph/message/conversation/dwgEyB1d 
+
+= Rejected Jonalyne 
+
+
+
+replied to bad reviews on google 
+
+
+tiene que haber una vision diaria de los trackign numbers para ver si se han movido 
+
+como gestionar lso refund 
+hay que tener itempo pa pensar las cosas gonorreas 
+
+I want to buy a new mini ipad to be able to reply to shit on the go 
+
+also what is the % we expect or calculate for damaged and stuff 
+
+JEESUUUUUSS also what is our grapple on the ivnetory 
 
