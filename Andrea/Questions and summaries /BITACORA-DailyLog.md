@@ -510,3 +510,21 @@ questions for today :
     - We need to be able to link orders together to see what's happening 
     (Andrea needs to understand when did we chaneg to DPD)
     - What's the process to make investigations for DPD 
+    - We need to decide if I'm going to Belgium once I'm back (Andres needs to know if I do the autonomo and how much it's gonna cost)
+
+
+# 29 th of septemeber #
+
+
+Tasks pending from yesterday 
+
+- Olivier Delhaye = send the new thing 
+- talk with J see above 
+- Plan how expensive is the autonomo 
+- lan how expensive is the computer and check the insurance 
+- Reply to the VA 's questions 
+
+
+pedning on others 
+- Frau Polner 
+- DPD investigation on Vanesa 
