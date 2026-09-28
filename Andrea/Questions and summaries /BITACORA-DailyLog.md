@@ -485,3 +485,8 @@ also what is the % we expect or calculate for damaged and stuff
 
 JEESUUUUUSS also what is our grapple on the ivnetory 
 
+
+# 28th of September #
+
+I'm a bit tired let's recount what do I need to do 
+
