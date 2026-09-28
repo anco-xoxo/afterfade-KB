@@ -490,3 +490,23 @@ JEESUUUUUSS also what is our grapple on the ivnetory
 
 I'm a bit tired let's recount what do I need to do 
 
+we need to know when the label was printed in the command center 
+
+FOR sender dpd investigation we need to use sender.care@dpd.be 
+
+for the DPD account 
+
+https://dpd-belux.my.site.com/myDPD/s/
+Info@
+Claritycoat2026!
+Save that mate
+
+questions for today : 
+
+- How are we goign to handle when Sebastian is travelling to Spain ? (Andrea we haven't finished the backlog of the orders that are missing )
+
+- Talk with J : 
+    - we need the day the label was created in the order details 
+    - We need to be able to link orders together to see what's happening 
+    (Andrea needs to understand when did we chaneg to DPD)
+    - What's the process to make investigations for DPD 
